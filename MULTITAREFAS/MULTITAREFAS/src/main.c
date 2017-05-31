@@ -108,11 +108,11 @@ void tarefa_3(void)
 			
 		/* Turn LED on. */
 		port_pin_set_output_level(LED_0_PIN, LED_0_ACTIVE);
-		TarefaEspera(3); 	/* tarefa 1 se coloca em espera por 3 marcas de tempo (ticks) */
+		TarefaEspera(1000); 	/* tarefa 1 se coloca em espera por 3 marcas de tempo (ticks) */
 		
 		/* Turn LED off. */
 		port_pin_set_output_level(LED_0_PIN, !LED_0_ACTIVE);
-		TarefaEspera(3); 	/* tarefa 1 se coloca em espera por 3 marcas de tempo (ticks) */
+		TarefaEspera(1000); 	/* tarefa 1 se coloca em espera por 3 marcas de tempo (ticks) */
 	}
 }
 

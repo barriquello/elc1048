@@ -101,14 +101,15 @@ void TarefaContinua(uint8_t id_tarefa)
 	REG_ATOMICA_FIM();
 }
 
-void TarefaEspera(tick_t qtas_marcas){
-	if(qtas_marcas > 0)
+void TarefaEspera(tick_t qtas_marcas)
+{
+	if(qtas_marcas > 0)  //** so valores maiores que 0 */
 	{
-		REG_ATOMICA_INICIO();
+		REG_ATOMICA_INICIO();			/* bloqueia interrupcoes */
 		TCB[tarefa_atual].tempo_espera = qtas_marcas;	/* o contador de marcas da tarefa é iniciado com o valor recebido */
 		TCB[tarefa_atual].estado = ESPERA;				/* tarefa é colocada na fila de espera */
-		TrocaContexto(); 		   						/* tarefa atual solicita troca de contexto */
-		REG_ATOMICA_FIM();
+		TrocaContexto(); 	 /* tarefa atual solicita troca de contexto, so retorna quando ficar pronta novamente */
+		REG_ATOMICA_FIM();   /* desbloqueia interrupcoes */
 	}
 }
 
@@ -165,11 +166,12 @@ void ExecutaMarcaDeTempo(void)
 	for (tarefa=numero_tarefas;tarefa > 0;tarefa--)
 	{ 
 	  
-		if(TCB[tarefa].tempo_espera > 0 ){	        
-			
+		if(TCB[tarefa].tempo_espera > 0 ) /* se esta esperando algum tempo */
+		{	
 			TCB[tarefa].tempo_espera--; /* decrementa tempo de espera */
 			
-			if(TCB[tarefa].tempo_espera == 0 ){
+			if(TCB[tarefa].tempo_espera == 0 )
+			{
 				/* coloca a tarefa na fila de prontas para executar */	
 				TCB[tarefa].estado = PRONTA;	        				
 			}

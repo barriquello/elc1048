@@ -46,7 +46,8 @@ stackptr_t CriaContexto(tarefa_t endereco_tarefa, stackptr_t ptr_pilha)
 void ConfiguraMarcaTempo(void)
 {   
 	
-		uint16_t valor_comparador = (cfg_CPU_CLOCK_HZ / cfg_MARCA_TEMPO_HZ);
+	    uint32_t cpu_clock_hz = system_cpu_clock_get_hz();
+		uint16_t valor_comparador = cpu_clock_hz/cfg_MARCA_TEMPO_HZ; //(cfg_CPU_CLOCK_HZ / cfg_MARCA_TEMPO_HZ);
 		
 		*(NVIC_SYSTICK_CTRL) = 0;						// Desabilita SysTick Timer
 		*(NVIC_SYSTICK_LOAD) = valor_comparador - 1;	// Configura a contagem
@@ -82,7 +83,7 @@ __attribute__ ((naked)) void PendSV_Handler(void)
 }
 
 /* Codigo dependente de hardware usado para 
-   realizar a marca de tempo do sistema multitarefas */
+   realizar a marca de tempo do sistema multitarefas - interrupcao */
 void SysTick_Handler(void)
 {	
 	 
