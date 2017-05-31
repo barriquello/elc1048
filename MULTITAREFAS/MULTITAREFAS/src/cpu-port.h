@@ -40,7 +40,7 @@ typedef uint32_t* stackptr_t;
 #define REG_ATOMICA_INICIO()  	  __asm(" CPSID I");
 #define REG_ATOMICA_FIM()  		  __asm(" CPSIE I");
 
-#define TROCA_CONTEXTO()		*(NVIC_INT_CTRL_B) = NVIC_PENDSVSET;
+#define TROCA_CONTEXTO()		*(NVIC_INT_CTRL_B) = NVIC_PENDSVSET; __asm(" CPSIE I");
 #define TrocaContexto()		    TROCA_CONTEXTO()
 #define Clear_PendSV(void)		*(NVIC_INT_CTRL_B) = NVIC_PENDSVCLR
 

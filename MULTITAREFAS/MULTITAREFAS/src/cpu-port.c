@@ -83,10 +83,22 @@ __attribute__ ((naked)) void PendSV_Handler(void)
 
 /* Codigo dependente de hardware usado para 
    realizar a marca de tempo do sistema multitarefas */
-__attribute__ ((naked)) void SysTick_Handler(void)
+void SysTick_Handler(void)
 {	
-	
+	 
 	 ExecutaMarcaDeTempo();    
-	 TrocaContexto();   /* para o uso como sistema preemptivo */
+	 //TrocaContexto();   /* para o uso como sistema preemptivo */
 }
+
+void HardFault_Handler(void)
+{
+	
+	while(1)
+	{
+		
+		
+	}
+}
+
+
 
