@@ -178,3 +178,40 @@ void ExecutaMarcaDeTempo(void)
 		}
 	 }
 }
+
+/* Servicos de semaforos */
+void SemaforoAguarda(semaforo_t* sem)
+{
+	
+	REG_ATOMICA_INICIO();
+	
+	if(sem->contador > 0)
+	{
+		sem->contador--;
+	}else
+	{
+		TCB[tarefa_atual].estado = ESPERA;		/* tarefa colocada na fila de espera */
+		sem->tarefaEsperando = tarefa_atual;   	/* tarefa colocada na espera do semaforo */
+		TROCA_CONTEXTO();						/* solicita troca de contexto */
+	}
+	
+	REG_ATOMICA_FIM();
+}
+
+
+void SemaforoLibera(semaforo_t* sem)
+{
+	REG_ATOMICA_INICIO();
+	
+	if(sem->tarefaEsperando > 0)
+	{	/* tem alguma tarefa aguardando ? */
+		TCB[sem->tarefaEsperando].estado = PRONTA;		/* tarefa colocada na fila de pronta */
+		sem->tarefaEsperando = 0;						/* tarefa retirada da espera do semaforo */
+	}else
+	{
+		sem->contador++;
+	}
+	TROCA_CONTEXTO();
+	
+	REG_ATOMICA_FIM();
+}

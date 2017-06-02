@@ -31,6 +31,11 @@ typedef enum {PRONTA, ESPERA} estado_tarefa_t;
 typedef uint8_t	  prioridade_t;
 typedef uint16_t  tick_t;
 
+/**
+* \struct tcb_t
+* Estrutura de controle de tarefas
+*/
+
 typedef struct
 {
 	const char		*nome;
@@ -46,6 +51,21 @@ extern  tcb_t		TCB[NUMERO_DE_TAREFAS+1];
 extern  stackptr_t	ponteiro_de_pilha;
 extern  prioridade_t Prioridades[PRIORIDADE_MAXIMA+1];
 
+/**
+* \struct semaforo_t
+* Estrutura de controle do semaforo
+*/
+
+typedef struct 
+{
+	uint8_t     contador;            ///< Contador do semaforo
+	uint8_t 	tarefaEsperando;        ///< Tarefa esperando
+} semaforo_t;
+
+
+void tarefa_ociosa(void);
+uint8_t escalonador(void);
+
 void TrocaContextoDasTarefas(void);
 uint32_t * CriaContexto(tarefa_t endereco_tarefa, uint32_t* ptr_pilha);
 void CriaTarefa(tarefa_t p, const char * nome, stackptr_t pilha, uint16_t tamanho, prioridade_t prioridade);
@@ -55,9 +75,8 @@ void ExecutaMarcaDeTempo(void);
 
 void TarefaSuspende(uint8_t id_tarefa);
 void TarefaContinua(uint8_t id_tarefa);
-void TarefaEspera(tick_t qtas_marcas);
+void TarefaEspera(tick_t qtas_marcas);		
 
-void tarefa_ociosa(void);
-uint8_t escalonador(void);		
-
+void SemaforoAguarda(semaforo_t* sem);
+void SemaforoLibera(semaforo_t* sem);
 #endif /* MULTITAREFAS_H_ */
