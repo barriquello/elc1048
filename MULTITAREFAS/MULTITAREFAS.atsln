@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Atmel Studio Solution File, Format Version 11.00
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "MULTITAREFAS", "MULTITAREFAS\MULTITAREFAS.cproj", "{DCE6C7E3-EE26-4D79-826B-08594B9AD897}"
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "MULTITAREFAS_D21", "MULTITAREFAS\MULTITAREFAS_D21.cproj", "{DCE6C7E3-EE26-4D79-826B-08594B9AD897}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "MULTITAREFAS_R21", "MULTITAREFAS_R21\MULTITAREFAS_R21.cproj", "{380860D0-6A69-4060-B2FD-727027520EDD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|ARM.Build.0 = Debug|ARM
 		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|ARM.ActiveCfg = Release|ARM
 		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|ARM.Build.0 = Release|ARM
+		{380860D0-6A69-4060-B2FD-727027520EDD}.Debug|ARM.ActiveCfg = Debug|ARM
+		{380860D0-6A69-4060-B2FD-727027520EDD}.Debug|ARM.Build.0 = Debug|ARM
+		{380860D0-6A69-4060-B2FD-727027520EDD}.Release|ARM.ActiveCfg = Release|ARM
+		{380860D0-6A69-4060-B2FD-727027520EDD}.Release|ARM.Build.0 = Release|ARM
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

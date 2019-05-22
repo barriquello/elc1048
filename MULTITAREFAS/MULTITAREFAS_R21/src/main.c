@@ -6,9 +6,9 @@
  */
 
 /**
- * \mainpage User Application template doxygen documentation
+ * \mainpage Sistema operacional multitarefas
  *
- * \par Empty user application template
+ * \par Exemplso de tarefas
  *
  * Este arquivo contem exemplos diversos de tarefas e 
  * funcionalidades de um sistema operacional multitarefas.
@@ -17,8 +17,8 @@
  * \par Conteudo
  *
  * -# Inclui funcoes do sistema multitarefas (atraves de multitarefas.h)
- * -# Inicizalizao do processador e do sistema multitarefas
- * -# Criacao de tarefas de demonstracao
+ * -# Inicialização do processador e do sistema multitarefas
+ * -# Criação de tarefas de demonstração
  *
  */
 
@@ -77,9 +77,9 @@ int main(void)
 	/* Criacao das tarefas */
 	/* Parametros: ponteiro, nome, ponteiro da pilha, tamanho da pilha, prioridade da tarefa */
 	
-	CriaTarefa(tarefa_1, "Tarefa 1", PILHA_TAREFA_1, TAM_PILHA_1, 2);
+	CriaTarefa(tarefa_1, "Tarefa 1", PILHA_TAREFA_1, TAM_PILHA_1, 1);
 	
-	CriaTarefa(tarefa_2, "Tarefa 2", PILHA_TAREFA_2, TAM_PILHA_2, 1);
+	CriaTarefa(tarefa_2, "Tarefa 2", PILHA_TAREFA_2, TAM_PILHA_2, 2);
 	
 	/* Cria tarefa ociosa do sistema */
 	CriaTarefa(tarefa_ociosa,"Tarefa ociosa", PILHA_TAREFA_OCIOSA, TAM_PILHA_OCIOSA, 0);
@@ -238,7 +238,9 @@ void tarefa_8(void)
 		SemaforoAguarda(&SemaforoCheio);
 		
 		valor = buffer[f];
-		f = (f+1) % TAM_BUFFER;		
+		f = (f+1) % TAM_BUFFER;	
+		
+		(void)valor;	/* leitura da variável para evitar aviso (warning) do compilador */
 		
 		SemaforoLibera(&SemaforoVazio);
 	}
