@@ -1,0 +1,58 @@
+# Created by https://www.gitignore.io/api/iarembeddedworkbench
+# Edit at https://www.gitignore.io/?templates=iarembeddedworkbench
+
+### IAREmbeddedWorkBench ###
+# IAR C-STAT and C-RUN
+# Comment this out if you use C-Stat or C-Run to compile/analyze your project
+*.ewt
+
+# IAR Debugger files
+*.ewd
+
+# IAR Workspace files
+*.eww
+
+# IAR Settings
+/settings/*.crun
+/settings/*.dbgdt
+/settings/*.cspy
+/settings/*.cspy.*
+/settings/*.xcl
+/settings/*.dni
+/settings/*.wsdt
+/settings/*.wspos
+/settings/*.reggroups
+
+# IAR Debug Exe
+/Debug/Exe/
+
+# IAR Debug List
+/Debug/List
+
+# IAR Debug Obj
+/Debug/Obj/
+/Debug/Obj/*.pbd
+/Debug/Obj/*.pbd.*
+/Debug/Obj/*.pbi
+/Debug/Obj/*.pbi.*
+
+
+# Log files
+**.log
+
+# IAR backup files
+Backup*
+
+# IAR .dep files
+*.dep
+
+# Compiled Binaries
+*.bin
+*.elf
+*.hex
+*.map
+
+# Trash files
+*.bak
+
+# End of https://www.gitignore.io/api/iarembeddedworkbench
