@@ -1,0 +1,276 @@
+###############################################################################
+#
+# IAR ELF Linker V8.50.1.245/W32 for ARM                  29/May/2020  00:38:27
+# Copyright 2007-2020 IAR Systems AB.
+#
+#    Output file  =
+#        C:\Users\amral\curso\sem6\embarcados\git\elc1048\MULTITAREFAS\IAR\Debug\Exe\prj0.out
+#    Map file     =
+#        C:\Users\amral\curso\sem6\embarcados\git\elc1048\MULTITAREFAS\IAR\Debug\List\prj0.map
+#    Command line =
+#        -f C:\Users\amral\AppData\Local\Temp\EWCD37.tmp
+#        (C:\Users\amral\curso\sem6\embarcados\git\elc1048\MULTITAREFAS\IAR\Debug\Obj\cpu-port.o
+#        C:\Users\amral\curso\sem6\embarcados\git\elc1048\MULTITAREFAS\IAR\Debug\Obj\main.o
+#        C:\Users\amral\curso\sem6\embarcados\git\elc1048\MULTITAREFAS\IAR\Debug\Obj\multitarefas.o
+#        --no_out_extension -o
+#        C:\Users\amral\curso\sem6\embarcados\git\elc1048\MULTITAREFAS\IAR\Debug\Exe\prj0.out
+#        --redirect _Printf=_PrintfFullNoMb --redirect _Scanf=_ScanfFullNoMb
+#        --map
+#        C:\Users\amral\curso\sem6\embarcados\git\elc1048\MULTITAREFAS\IAR\Debug\List\prj0.map
+#        --config "C:\Program Files (x86)\IAR Systems\Embedded Workbench
+#        8.4\arm\CONFIG\generic_cortex.icf" --semihosting --entry
+#        __iar_program_start --vfe --text_out locale)
+#
+###############################################################################
+
+*******************************************************************************
+*** RUNTIME MODEL ATTRIBUTES
+***
+
+CppFlavor       = *
+__SystemLibrary = DLib
+__dlib_version  = 6
+
+
+*******************************************************************************
+*** HEAP SELECTION
+***
+
+The basic heap was selected because some modules are built with
+size limitations (and not runtime checking), and --advanced_heap
+was not specified.
+
+
+*******************************************************************************
+*** PLACEMENT SUMMARY
+***
+
+"A0":  place at address 0x0 { ro section .intvec };
+"P1":  place in [from 0x0 to 0x7'ffff] { ro };
+define block CSTACK with size = 1K, alignment = 8 { };
+define block PROC_STACK with size = 0, alignment = 8 { };
+define block HEAP with size = 2K, alignment = 8 { };
+"P2":  place in [from 0x2000'0000 to 0x2000'ffff] {
+          rw, block CSTACK, block PROC_STACK, block HEAP };
+initialize by copy { rw };
+
+  Section            Kind         Address   Size  Object
+  -------            ----         -------   ----  ------
+"A0":                                       0x40
+  .intvec            ro code          0x0   0x40  vector_table_M.o [3]
+                                   - 0x40   0x40
+
+"P1":                                      0x7e0
+  .text              ro code         0x40  0x29c  multitarefas.o [1]
+  .text              ro code        0x2dc  0x128  cpu-port.o [1]
+  .text              ro code        0x404   0xae  I32DivModFast.o [3]
+  .text              ro code        0x4b2    0x2  vector_table_M.o [3]
+  .text              ro code        0x4b4    0x2  IntDivZer.o [3]
+  .text              ro code        0x4b8  0x1fc  main.o [1]
+  .text              ro code        0x6b4   0x3c  zero_init3.o [3]
+  .text              ro code        0x6f0   0x30  copy_init3.o [3]
+  .text              ro code        0x720   0x28  data_init.o [3]
+  .iar.init_table    const          0x748   0x24  - Linker created -
+  .text              ro code        0x76c   0x1e  cmain.o [3]
+  .text              ro code        0x78a    0x4  low_level_init.o [2]
+  .text              ro code        0x78e    0x8  exit.o [2]
+  .text              ro code        0x798    0xa  cexit.o [3]
+  .text              ro code        0x7a4   0x14  exit.o [4]
+  .rodata            const          0x7b8   0x10  main.o [1]
+  .rodata            const          0x7c8    0xc  main.o [1]
+  .rodata            const          0x7d4    0xc  main.o [1]
+  .rodata            const          0x7e0    0xc  main.o [1]
+  .rodata            const          0x7ec    0xc  main.o [1]
+  .rodata            const          0x7f8    0xc  main.o [1]
+  .rodata            const          0x804    0xc  main.o [1]
+  .text              ro code        0x810    0xc  cstartup_M.o [3]
+  Initializer bytes  const          0x81c    0x4  <for P2-1>
+  .rodata            const          0x820    0x0  zero_init3.o [3]
+  .rodata            const          0x820    0x0  copy_init3.o [3]
+                                  - 0x820  0x7e0
+
+"P2", part 1 of 3:                           0x4
+  P2-1                        0x2000'0000    0x2  <Init block>
+    .data            inited   0x2000'0000    0x2  main.o [1]
+                            - 0x2000'0002    0x2
+
+"P2", part 2 of 3:                         0x4dc
+  .bss               zero     0x2000'0004   0xa0  main.o [1]
+  .bss               zero     0x2000'00a4   0xa0  main.o [1]
+  .bss               zero     0x2000'0144   0xa0  main.o [1]
+  .bss               zero     0x2000'01e4   0xa0  main.o [1]
+  .bss               zero     0x2000'0284   0xa0  main.o [1]
+  .bss               zero     0x2000'0324   0xa0  main.o [1]
+  .bss               zero     0x2000'03c4   0xa0  main.o [1]
+  .bss               zero     0x2000'0464   0x60  multitarefas.o [1]
+  .bss               zero     0x2000'04c4    0x8  multitarefas.o [1]
+  .bss               zero     0x2000'04cc    0x4  main.o [1]
+  .bss               zero     0x2000'04d0    0x4  multitarefas.o [1]
+  .bss               zero     0x2000'04d4    0x4  multitarefas.o [1]
+  .bss               zero     0x2000'04d8    0x2  multitarefas.o [1]
+  .bss               zero     0x2000'04da    0x1  multitarefas.o [1]
+  .bss               zero     0x2000'04db    0x1  multitarefas.o [1]
+  .bss               zero     0x2000'04dc    0x1  multitarefas.o [1]
+                            - 0x2000'04dd  0x4d9
+
+"P2", part 3 of 3:                         0x400
+  CSTACK                      0x2000'04e0  0x400  <Block>
+    CSTACK           uninit   0x2000'04e0  0x400  <Block tail>
+                            - 0x2000'08e0  0x400
+
+Unused ranges:
+
+         From           To      Size
+         ----           --      ----
+        0x820     0x7'ffff  0x7'f7e0
+  0x2000'08e0  0x2000'ffff    0xf720
+
+
+*******************************************************************************
+*** INIT TABLE
+***
+
+          Address      Size
+          -------      ----
+Zero (__iar_zero_init3)
+    1 destination range, total size 0x4d9:
+          0x2000'0004  0x4d9
+
+Copy (__iar_copy_init3)
+    1 source range, total size 0x4 (200% of destination):
+                0x81c    0x4
+    1 destination range, total size 0x2:
+          0x2000'0000    0x2
+
+
+
+*******************************************************************************
+*** MODULE SUMMARY
+***
+
+    Module            ro code  ro data  rw data
+    ------            -------  -------  -------
+command line/config:
+    -------------------------------------------
+    Total:
+
+C:\Users\amral\curso\sem6\embarcados\git\elc1048\MULTITAREFAS\IAR\Debug\Obj: [1]
+    cpu-port.o            296
+    main.o                508       90    1'126
+    multitarefas.o        668               117
+    -------------------------------------------
+    Total:              1'472       90    1'243
+
+dl6M_tln.a: [2]
+    exit.o                  8
+    low_level_init.o        4
+    -------------------------------------------
+    Total:                 12
+
+rt6M_tl.a: [3]
+    I32DivModFast.o       174
+    IntDivZer.o             2
+    cexit.o                10
+    cmain.o                30
+    copy_init3.o           48
+    cstartup_M.o           12
+    data_init.o            40
+    vector_table_M.o       66
+    zero_init3.o           60
+    -------------------------------------------
+    Total:                442
+
+shb_l.a: [4]
+    exit.o                 20
+    -------------------------------------------
+    Total:                 20
+
+    Gaps                    6
+    Linker created                  38    1'024
+-----------------------------------------------
+    Grand Total:        1'952      128    2'267
+
+
+*******************************************************************************
+*** ENTRY LIST
+***
+
+Entry                       Address  Size  Type      Object
+-----                       -------  ----  ----      ------
+.iar.init_table$$Base         0x748         --   Gb  - Linker created -
+.iar.init_table$$Limit        0x76c         --   Gb  - Linker created -
+?main                         0x76d        Code  Gb  cmain.o [3]
+CSTACK$$Base            0x2000'04e0         --   Gb  - Linker created -
+CSTACK$$Limit           0x2000'08e0         --   Gb  - Linker created -
+ConfiguraMarcaTempo           0x32b  0x24  Code  Gb  cpu-port.o [1]
+CriaContexto                  0x2dd  0x4e  Code  Gb  cpu-port.o [1]
+CriaTarefa                     0x93  0x6a  Code  Gb  multitarefas.o [1]
+ExecutaMarcaDeTempo           0x1e7  0x6a  Code  Gb  multitarefas.o [1]
+HardFault_Handler             0x401   0x4  Code  Gb  cpu-port.o [1]
+IniciaMultitarefas            0x18d  0x26  Code  Gb  multitarefas.o [1]
+PILHA_TAREFA_1          0x2000'0004  0xa0  Data  Gb  main.o [1]
+PILHA_TAREFA_2          0x2000'00a4  0xa0  Data  Gb  main.o [1]
+PILHA_TAREFA_3          0x2000'0144  0xa0  Data  Gb  main.o [1]
+PILHA_TAREFA_4          0x2000'01e4  0xa0  Data  Gb  main.o [1]
+PILHA_TAREFA_5          0x2000'0284  0xa0  Data  Gb  main.o [1]
+PILHA_TAREFA_6          0x2000'0324  0xa0  Data  Gb  main.o [1]
+PILHA_TAREFA_OCIOSA     0x2000'03c4  0xa0  Data  Gb  main.o [1]
+PendSV_Handler                0x389  0x48  Code  Gb  cpu-port.o [1]
+Prioridades             0x2000'04c4   0x8  Data  Gb  multitarefas.o [1]
+Region$$Table$$Base           0x748         --   Gb  - Linker created -
+Region$$Table$$Limit          0x76c         --   Gb  - Linker created -
+SP                      0x2000'04d4   0x4  Data  Gb  multitarefas.o [1]
+SVC_Handler                   0x351  0x38  Code  Gb  cpu-port.o [1]
+SemaforoAguarda               0x251  0x34  Code  Gb  multitarefas.o [1]
+SemaforoLibera                0x285  0x32  Code  Gb  multitarefas.o [1]
+SysTick_Handler               0x3d1  0x12  Code  Gb  cpu-port.o [1]
+TCB                     0x2000'0464  0x60  Data  Gb  multitarefas.o [1]
+TarefaContinua                0x121  0x24  Code  Gb  multitarefas.o [1]
+TarefaEspera                  0x145  0x34  Code  Gb  multitarefas.o [1]
+TarefaSuspende                 0xfd  0x24  Code  Gb  multitarefas.o [1]
+TrocaContextoDasTarefas
+                              0x1b3  0x34  Code  Gb  multitarefas.o [1]
+__aeabi_idiv0                 0x4b5        Code  Gb  IntDivZer.o [3]
+__aeabi_uidiv                 0x405        Code  Gb  I32DivModFast.o [3]
+__aeabi_uidivmod              0x405        Code  Gb  I32DivModFast.o [3]
+__cmain                       0x76d        Code  Gb  cmain.o [3]
+__exit                        0x7a5  0x14  Code  Gb  exit.o [4]
+__iar_copy_init3              0x6f1  0x30  Code  Gb  copy_init3.o [3]
+__iar_data_init3              0x721  0x28  Code  Gb  data_init.o [3]
+__iar_program_start           0x811        Code  Gb  cstartup_M.o [3]
+__iar_zero_init3              0x6b5  0x3c  Code  Gb  zero_init3.o [3]
+__low_level_init              0x78b   0x4  Code  Gb  low_level_init.o [2]
+__vector_table                  0x0        Data  Gb  vector_table_M.o [3]
+_call_main                    0x779        Code  Gb  cmain.o [3]
+_exit                         0x799        Code  Gb  cexit.o [3]
+_main                         0x787        Code  Gb  cmain.o [3]
+contador_marcas         0x2000'04d8   0x2  Data  Lc  multitarefas.o [1]
+count                   0x2000'04cc   0x4  Data  Gb  main.o [1]
+count_flag              0x2000'0000   0x2  Data  Gb  main.o [1]
+escalonador                    0x41  0x52  Code  Gb  multitarefas.o [1]
+exit                          0x78f   0x8  Code  Gb  exit.o [2]
+main                          0x4b9  0x8e  Code  Gb  main.o [1]
+numero_tarefas          0x2000'04dc   0x1  Data  Lc  multitarefas.o [1]
+ponteiro_de_pilha       0x2000'04d0   0x4  Data  Gb  multitarefas.o [1]
+proxima_tarefa          0x2000'04db   0x1  Data  Gb  multitarefas.o [1]
+tarefa_atual            0x2000'04da   0x1  Data  Gb  multitarefas.o [1]
+tarefa_ociosa                 0x179  0x12  Code  Gb  multitarefas.o [1]
+thread0                       0x627  0x2c  Code  Gb  main.o [1]
+thread1                       0x5f5  0x32  Code  Gb  main.o [1]
+thread2                       0x5c3  0x32  Code  Gb  main.o [1]
+thread3                       0x591  0x32  Code  Gb  main.o [1]
+thread4                       0x565  0x2c  Code  Gb  main.o [1]
+thread5                       0x547  0x1e  Code  Gb  main.o [1]
+
+
+[1] = C:\Users\amral\curso\sem6\embarcados\git\elc1048\MULTITAREFAS\IAR\Debug\Obj
+[2] = dl6M_tln.a
+[3] = rt6M_tl.a
+[4] = shb_l.a
+
+  1'952 bytes of readonly  code memory
+    128 bytes of readonly  data memory
+  2'267 bytes of readwrite data memory
+
+Errors: none
+Warnings: none

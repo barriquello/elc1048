@@ -16,7 +16,11 @@
         <ShowSource>1</ShowSource>
     </Trace1>
     <DebugChecksum>
+<<<<<<< Updated upstream
         <Checksum>2883667206</Checksum>
+=======
+        <Checksum>3582666036</Checksum>
+>>>>>>> Stashed changes
     </DebugChecksum>
     <Disassembly>
         <InstrCount>0</InstrCount>
@@ -67,7 +71,12 @@
         <mode>0</mode>
     </DisassembleMode>
     <Breakpoints2>
+<<<<<<< Updated upstream
         <Count>0</Count>
+=======
+        <Bp0>_ 1 "STD_CODE2" "{$PROJ_DIR$\multitarefas.c}.160.10" 0 0 1 "" 0 ""</Bp0>
+        <Count>1</Count>
+>>>>>>> Stashed changes
     </Breakpoints2>
     <Interrupts>
         <Enabled>1</Enabled>

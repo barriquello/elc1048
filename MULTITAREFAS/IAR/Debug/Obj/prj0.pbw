@@ -1,0 +1,6117 @@
+[
+  {
+    "ID": "c:yvals.h@120@macro@_YVALS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_YVALS",
+    "location": {
+      "column": "9",
+      "line": "5",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "_YVALS",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@223@macro@_GLUE_B",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_GLUE_B",
+    "location": {
+      "column": "9",
+      "line": "12",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "_GLUE_B",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@250@macro@_GLUE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_GLUE",
+    "location": {
+      "column": "9",
+      "line": "13",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "_GLUE",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@285@macro@_GLUE3_B",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_GLUE3_B",
+    "location": {
+      "column": "9",
+      "line": "15",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "_GLUE3_B",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@318@macro@_GLUE3",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_GLUE3",
+    "location": {
+      "column": "9",
+      "line": "16",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "_GLUE3",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@359@macro@_STRINGIFY_B",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_STRINGIFY_B",
+    "location": {
+      "column": "9",
+      "line": "18",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "_STRINGIFY_B",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@387@macro@_STRINGIFY",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_STRINGIFY",
+    "location": {
+      "column": "9",
+      "line": "19",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "_STRINGIFY",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@486@macro@_ABINAME",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_ABINAME",
+    "location": {
+      "column": "9",
+      "line": "22",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "_ABINAME",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@552@macro@_CPPLIB_VER",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_CPPLIB_VER",
+    "location": {
+      "column": "9",
+      "line": "25",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "_CPPLIB_VER",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@634@macro@__IAR_SYSTEMS_LIB__",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__IAR_SYSTEMS_LIB__",
+    "location": {
+      "column": "11",
+      "line": "29",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__IAR_SYSTEMS_LIB__",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@1770@macro@__EFF_NS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__EFF_NS",
+    "location": {
+      "column": "9",
+      "line": "62",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__EFF_NS",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@1862@macro@__EFF_NSNW1",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__EFF_NSNW1",
+    "location": {
+      "column": "9",
+      "line": "63",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__EFF_NSNW1",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@1967@macro@__EFF_NE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__EFF_NE",
+    "location": {
+      "column": "9",
+      "line": "64",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__EFF_NE",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@2046@macro@__EFF_NENR1",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__EFF_NENR1",
+    "location": {
+      "column": "9",
+      "line": "65",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__EFF_NENR1",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@2137@macro@__EFF_NENR1R1",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__EFF_NENR1R1",
+    "location": {
+      "column": "9",
+      "line": "66",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__EFF_NENR1R1",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@2239@macro@__EFF_NENR2",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__EFF_NENR2",
+    "location": {
+      "column": "9",
+      "line": "67",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__EFF_NENR2",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@2330@macro@__EFF_NENR1NW2",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__EFF_NENR1NW2",
+    "location": {
+      "column": "9",
+      "line": "68",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__EFF_NENR1NW2",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@2434@macro@__EFF_NENR1NW2R1",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__EFF_NENR1NW2R1",
+    "location": {
+      "column": "9",
+      "line": "69",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__EFF_NENR1NW2R1",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@2551@macro@__EFF_NENW1",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__EFF_NENW1",
+    "location": {
+      "column": "9",
+      "line": "70",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__EFF_NENW1",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@2643@macro@__EFF_NENW2",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__EFF_NENW2",
+    "location": {
+      "column": "9",
+      "line": "71",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__EFF_NENW2",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@2735@macro@__EFF_NENW2R1",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__EFF_NENW2R1",
+    "location": {
+      "column": "9",
+      "line": "72",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__EFF_NENW2R1",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@2838@macro@__EFF_NENW1NW2",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__EFF_NENW1NW2",
+    "location": {
+      "column": "9",
+      "line": "73",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__EFF_NENW1NW2",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@2932@macro@__EFF_NR1",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__EFF_NR1",
+    "location": {
+      "column": "9",
+      "line": "74",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__EFF_NR1",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@3013@macro@__EFF_NR1NW2",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__EFF_NR1NW2",
+    "location": {
+      "column": "9",
+      "line": "75",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__EFF_NR1NW2",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@3107@macro@__EFF_NR1NW3",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__EFF_NR1NW3",
+    "location": {
+      "column": "9",
+      "line": "76",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__EFF_NR1NW3",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@3201@macro@__EFF_NW1",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__EFF_NW1",
+    "location": {
+      "column": "9",
+      "line": "77",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__EFF_NW1",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@3283@macro@__EFF_NW2",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__EFF_NW2",
+    "location": {
+      "column": "9",
+      "line": "78",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__EFF_NW2",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@3365@macro@__EFF_NW1NR2",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__EFF_NW1NR2",
+    "location": {
+      "column": "9",
+      "line": "79",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__EFF_NW1NR2",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@3459@macro@__EFF_NW1NW2",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__EFF_NW1NW2",
+    "location": {
+      "column": "9",
+      "line": "80",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__EFF_NW1NW2",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@3585@macro@__ATTRIBUTES",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__ATTRIBUTES",
+    "location": {
+      "column": "9",
+      "line": "83",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__ATTRIBUTES",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@3642@macro@__ATTRIBUTES_CAN_THROW",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__ATTRIBUTES_CAN_THROW",
+    "location": {
+      "column": "9",
+      "line": "84",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__ATTRIBUTES_CAN_THROW",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@3688@macro@__ATTRIBUTES_NORETURN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__ATTRIBUTES_NORETURN",
+    "location": {
+      "column": "9",
+      "line": "85",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__ATTRIBUTES_NORETURN",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@3756@macro@__ATTRIBUTES_NORETURN_CAN_THROW",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__ATTRIBUTES_NORETURN_CAN_THROW",
+    "location": {
+      "column": "9",
+      "line": "86",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__ATTRIBUTES_NORETURN_CAN_THROW",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@3991@macro@_EXTERN_C",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_EXTERN_C",
+    "location": {
+      "column": "11",
+      "line": "95",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "_EXTERN_C",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@4012@macro@_EXTERN_C_END",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_EXTERN_C_END",
+    "location": {
+      "column": "11",
+      "line": "96",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "_EXTERN_C_END",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@4037@macro@_GLB",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_GLB",
+    "location": {
+      "column": "11",
+      "line": "97",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "_GLB",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@4660@macro@_DLIB_ONLY_C89",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_ONLY_C89",
+    "location": {
+      "column": "13",
+      "line": "119",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "_DLIB_ONLY_C89",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@4801@macro@_DLIB_ADD_EXTRA_SYMBOLS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_ADD_EXTRA_SYMBOLS",
+    "location": {
+      "column": "11",
+      "line": "126",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "_DLIB_ADD_EXTRA_SYMBOLS",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@4896@macro@__STDC_WANT_LIB_EXT1__",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__STDC_WANT_LIB_EXT1__",
+    "location": {
+      "column": "11",
+      "line": "131",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__STDC_WANT_LIB_EXT1__",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@5185@macro@__DEPREC",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__DEPREC",
+    "location": {
+      "column": "11",
+      "line": "140",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__DEPREC",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@5213@macro@__DEPREC_ATTRS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__DEPREC_ATTRS",
+    "location": {
+      "column": "9",
+      "line": "143",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__DEPREC_ATTRS",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@5269@macro@__DEPREC_ATTRS_CAN_THROW",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__DEPREC_ATTRS_CAN_THROW",
+    "location": {
+      "column": "9",
+      "line": "144",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__DEPREC_ATTRS_CAN_THROW",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@6605@macro@_NOEXCEPT",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_NOEXCEPT",
+    "location": {
+      "column": "11",
+      "line": "190",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "_NOEXCEPT",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@6721@macro@_THREAD_LOCAL",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_THREAD_LOCAL",
+    "location": {
+      "column": "15",
+      "line": "196",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "_THREAD_LOCAL",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@6850@macro@_Restrict",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_Restrict",
+    "location": {
+      "column": "13",
+      "line": "201",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "_Restrict",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@7006@macro@_MBMAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_MBMAX",
+    "location": {
+      "column": "9",
+      "line": "208",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "_MBMAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@7063@macro@_MAX_EXP_DIG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_MAX_EXP_DIG",
+    "location": {
+      "column": "9",
+      "line": "211",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "_MAX_EXP_DIG",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@7090@macro@_MAX_INT_DIG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_MAX_INT_DIG",
+    "location": {
+      "column": "9",
+      "line": "212",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "_MAX_INT_DIG",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@7118@macro@_MAX_SIG_DIG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_MAX_SIG_DIG",
+    "location": {
+      "column": "9",
+      "line": "213",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "_MAX_SIG_DIG",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@T@_Wchart",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "unsigned int",
+    "location": {
+      "column": "28",
+      "line": "221",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "_Wchart",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@T@_Wintt",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "unsigned int",
+    "location": {
+      "column": "28",
+      "line": "222",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "_Wintt",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@7564@macro@_WCMIN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_WCMIN",
+    "location": {
+      "column": "11",
+      "line": "233",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "_WCMIN",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@7585@macro@_WIMIN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_WIMIN",
+    "location": {
+      "column": "11",
+      "line": "234",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "_WIMIN",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@7612@macro@_WCMAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_WCMAX",
+    "location": {
+      "column": "9",
+      "line": "236",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "_WCMAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@7645@macro@_WIMAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_WIMAX",
+    "location": {
+      "column": "9",
+      "line": "237",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "_WIMAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@7706@macro@_NULL",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_NULL",
+    "location": {
+      "column": "9",
+      "line": "240",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "_NULL",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@T@_Sizet",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "unsigned int",
+    "location": {
+      "column": "29",
+      "line": "243",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "_Sizet",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@T@__int8_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "signed char",
+    "location": {
+      "column": "27",
+      "line": "246",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__int8_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@T@__uint8_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "unsigned char",
+    "location": {
+      "column": "27",
+      "line": "247",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__uint8_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@T@__int16_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "short",
+    "location": {
+      "column": "28",
+      "line": "248",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__int16_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@T@__uint16_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "unsigned short",
+    "location": {
+      "column": "28",
+      "line": "249",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__uint16_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@T@__int32_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "int",
+    "location": {
+      "column": "28",
+      "line": "250",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__int32_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@T@__uint32_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "unsigned int",
+    "location": {
+      "column": "28",
+      "line": "251",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__uint32_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@T@__int64_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "long long",
+    "location": {
+      "column": "31",
+      "line": "253",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__int64_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@T@__uint64_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "unsigned long long",
+    "location": {
+      "column": "31",
+      "line": "254",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__uint64_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@T@__intptr_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "int",
+    "location": {
+      "column": "29",
+      "line": "259",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__intptr_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@T@__uintptr_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "unsigned int",
+    "location": {
+      "column": "29",
+      "line": "260",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__uintptr_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@S@_Mbstatet",
+    "What": "Struct",
+    "defdec": "Def",
+    "display": "_Mbstatet",
+    "location": {
+      "column": "16",
+      "line": "263",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "members": [
+      {
+        "ID": "c:@S@_Mbstatet@FI@_Wchar",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "_Wchar",
+        "location": {
+          "column": "18",
+          "line": "266",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+        },
+        "name": "_Wchar",
+        "origin": "system_include",
+        "scope": "_Mbstatet"
+      },
+      {
+        "ID": "c:@S@_Mbstatet@FI@_State",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "_State",
+        "location": {
+          "column": "18",
+          "line": "267",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+        },
+        "name": "_State",
+        "origin": "system_include",
+        "scope": "_Mbstatet"
+      }
+    ],
+    "name": "_Mbstatet",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@T@_Mbstatet",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "struct _Mbstatet",
+    "location": {
+      "column": "3",
+      "line": "299",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "_Mbstatet",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@9563@macro@_Mbstinit",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_Mbstinit",
+    "location": {
+      "column": "11",
+      "line": "303",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "_Mbstinit",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@9636@macro@_HAS_PRAGMA_PRINTF_ARGS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_HAS_PRAGMA_PRINTF_ARGS",
+    "location": {
+      "column": "9",
+      "line": "307",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "_HAS_PRAGMA_PRINTF_ARGS",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@S@__va_list",
+    "What": "Struct",
+    "defdec": "Dec",
+    "display": "__va_list",
+    "location": {
+      "column": "11",
+      "line": "321",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "members": [],
+    "name": "__va_list",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@T@__Va_list",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "struct __va_list",
+    "location": {
+      "column": "20",
+      "line": "321",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__Va_list",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@SA@_Fpost",
+    "What": "Struct",
+    "defdec": "Def",
+    "display": "",
+    "location": {
+      "column": "9",
+      "line": "337",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "members": [
+      {
+        "ID": "c:@SA@_Fpost@FI@_Off",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "_Off",
+        "location": {
+          "column": "15",
+          "line": "340",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+        },
+        "name": "_Off",
+        "origin": "system_include",
+        "scope": "_anonymous_yvals_h_337_9"
+      },
+      {
+        "ID": "c:@SA@_Fpost@FI@_Wstate",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "_Wstate",
+        "location": {
+          "column": "13",
+          "line": "344",
+          "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+        },
+        "name": "_Wstate",
+        "origin": "system_include",
+        "scope": "_anonymous_yvals_h_337_9"
+      }
+    ],
+    "name": "",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@T@_Fpost",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "struct _Fpost",
+    "location": {
+      "column": "3",
+      "line": "345",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "_Fpost",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@10450@macro@_FPOSOFF",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_FPOSOFF",
+    "location": {
+      "column": "11",
+      "line": "348",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "_FPOSOFF",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@10528@macro@_MULTI_THREAD",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_MULTI_THREAD",
+    "location": {
+      "column": "9",
+      "line": "352",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "_MULTI_THREAD",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@__iar_Locksyslock_Malloc",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void __iar_Locksyslock_Malloc(void)",
+    "location": {
+      "column": "28",
+      "line": "358",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__iar_Locksyslock_Malloc",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@__iar_Locksyslock_Stream",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void __iar_Locksyslock_Stream(void)",
+    "location": {
+      "column": "28",
+      "line": "359",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__iar_Locksyslock_Stream",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@__iar_Locksyslock_Debug",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void __iar_Locksyslock_Debug(void)",
+    "location": {
+      "column": "28",
+      "line": "360",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__iar_Locksyslock_Debug",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@__iar_Locksyslock_StaticGuard",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void __iar_Locksyslock_StaticGuard(void)",
+    "location": {
+      "column": "28",
+      "line": "361",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__iar_Locksyslock_StaticGuard",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@__iar_Unlocksyslock_Malloc",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void __iar_Unlocksyslock_Malloc(void)",
+    "location": {
+      "column": "28",
+      "line": "362",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__iar_Unlocksyslock_Malloc",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@__iar_Unlocksyslock_Stream",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void __iar_Unlocksyslock_Stream(void)",
+    "location": {
+      "column": "28",
+      "line": "363",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__iar_Unlocksyslock_Stream",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@__iar_Unlocksyslock_Debug",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void __iar_Unlocksyslock_Debug(void)",
+    "location": {
+      "column": "28",
+      "line": "364",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__iar_Unlocksyslock_Debug",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@__iar_Unlocksyslock_StaticGuard",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void __iar_Unlocksyslock_StaticGuard(void)",
+    "location": {
+      "column": "28",
+      "line": "365",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__iar_Unlocksyslock_StaticGuard",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:yvals.h@T@__iar_Rmtx",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "void *",
+    "location": {
+      "column": "17",
+      "line": "374",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__iar_Rmtx",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@__iar_Initdynamiclock",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void __iar_Initdynamiclock(__iar_Rmtx *)",
+    "location": {
+      "column": "28",
+      "line": "376",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__iar_Initdynamiclock",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@__iar_Dstdynamiclock",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void __iar_Dstdynamiclock(__iar_Rmtx *)",
+    "location": {
+      "column": "28",
+      "line": "377",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__iar_Dstdynamiclock",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@__iar_Lockdynamiclock",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void __iar_Lockdynamiclock(__iar_Rmtx *)",
+    "location": {
+      "column": "28",
+      "line": "378",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__iar_Lockdynamiclock",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@__iar_Unlockdynamiclock",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void __iar_Unlockdynamiclock(__iar_Rmtx *)",
+    "location": {
+      "column": "28",
+      "line": "379",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\yvals.h"
+    },
+    "name": "__iar_Unlockdynamiclock",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@101@macro@_STDINT",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_STDINT",
+    "location": {
+      "column": "9",
+      "line": "4",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "_STDINT",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@T@int8_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "signed char",
+    "location": {
+      "column": "36",
+      "line": "19",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "int8_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@T@uint8_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "unsigned char",
+    "location": {
+      "column": "35",
+      "line": "20",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "uint8_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@T@int16_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "short",
+    "location": {
+      "column": "36",
+      "line": "24",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "int16_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@T@uint16_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "unsigned short",
+    "location": {
+      "column": "35",
+      "line": "25",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "uint16_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@T@int32_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "int",
+    "location": {
+      "column": "36",
+      "line": "29",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "int32_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@T@uint32_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "unsigned int",
+    "location": {
+      "column": "35",
+      "line": "30",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "uint32_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@T@int64_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "long long",
+    "location": {
+      "column": "36",
+      "line": "34",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "int64_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@T@uint64_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "unsigned long long",
+    "location": {
+      "column": "35",
+      "line": "35",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "uint64_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@T@int_least8_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "signed char",
+    "location": {
+      "column": "36",
+      "line": "40",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "int_least8_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@T@uint_least8_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "unsigned char",
+    "location": {
+      "column": "35",
+      "line": "41",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "uint_least8_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@T@int_least16_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "short",
+    "location": {
+      "column": "36",
+      "line": "43",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "int_least16_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@T@uint_least16_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "unsigned short",
+    "location": {
+      "column": "35",
+      "line": "44",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "uint_least16_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@T@int_least32_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "int",
+    "location": {
+      "column": "36",
+      "line": "46",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "int_least32_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@T@uint_least32_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "unsigned int",
+    "location": {
+      "column": "35",
+      "line": "47",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "uint_least32_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@T@int_least64_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "long long",
+    "location": {
+      "column": "36",
+      "line": "51",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "int_least64_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@T@uint_least64_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "unsigned long long",
+    "location": {
+      "column": "35",
+      "line": "54",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "uint_least64_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@T@int_fast8_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "int",
+    "location": {
+      "column": "36",
+      "line": "60",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "int_fast8_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@T@uint_fast8_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "unsigned int",
+    "location": {
+      "column": "35",
+      "line": "61",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "uint_fast8_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@T@int_fast16_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "int",
+    "location": {
+      "column": "36",
+      "line": "63",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "int_fast16_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@T@uint_fast16_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "unsigned int",
+    "location": {
+      "column": "35",
+      "line": "64",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "uint_fast16_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@T@int_fast32_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "int",
+    "location": {
+      "column": "36",
+      "line": "66",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "int_fast32_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@T@uint_fast32_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "unsigned int",
+    "location": {
+      "column": "35",
+      "line": "67",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "uint_fast32_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@T@int_fast64_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "long long",
+    "location": {
+      "column": "36",
+      "line": "70",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "int_fast64_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@T@uint_fast64_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "unsigned long long",
+    "location": {
+      "column": "35",
+      "line": "73",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "uint_fast64_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@T@intmax_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "long long",
+    "location": {
+      "column": "36",
+      "line": "77",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "intmax_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@T@uintmax_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "unsigned long long",
+    "location": {
+      "column": "35",
+      "line": "78",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "uintmax_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@T@intptr_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "int",
+    "location": {
+      "column": "36",
+      "line": "82",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "intptr_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@T@uintptr_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "unsigned int",
+    "location": {
+      "column": "35",
+      "line": "83",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "uintptr_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@2658@macro@__DATA_PTR_MEM_HELPER1__",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__DATA_PTR_MEM_HELPER1__",
+    "location": {
+      "column": "9",
+      "line": "86",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "__DATA_PTR_MEM_HELPER1__",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@T@__data_uintptr_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "unsigned int",
+    "location": {
+      "column": "1",
+      "line": "89",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "__data_uintptr_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@T@__data_intptr_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "int",
+    "location": {
+      "column": "1",
+      "line": "89",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "__data_intptr_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@2962@macro@INT8_MAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INT8_MAX",
+    "location": {
+      "column": "11",
+      "line": "94",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "INT8_MAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@3006@macro@INT8_MIN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INT8_MIN",
+    "location": {
+      "column": "11",
+      "line": "95",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "INT8_MIN",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@3050@macro@UINT8_MAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UINT8_MAX",
+    "location": {
+      "column": "11",
+      "line": "96",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "UINT8_MAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@3129@macro@INT16_MAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INT16_MAX",
+    "location": {
+      "column": "11",
+      "line": "100",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "INT16_MAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@3174@macro@INT16_MIN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INT16_MIN",
+    "location": {
+      "column": "11",
+      "line": "101",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "INT16_MIN",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@3219@macro@UINT16_MAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UINT16_MAX",
+    "location": {
+      "column": "11",
+      "line": "102",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "UINT16_MAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@3299@macro@INT32_MAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INT32_MAX",
+    "location": {
+      "column": "11",
+      "line": "106",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "INT32_MAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@3344@macro@INT32_MIN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INT32_MIN",
+    "location": {
+      "column": "11",
+      "line": "107",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "INT32_MIN",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@3389@macro@UINT32_MAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UINT32_MAX",
+    "location": {
+      "column": "11",
+      "line": "108",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "UINT32_MAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@3469@macro@INT64_MAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INT64_MAX",
+    "location": {
+      "column": "11",
+      "line": "112",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "INT64_MAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@3514@macro@INT64_MIN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INT64_MIN",
+    "location": {
+      "column": "11",
+      "line": "113",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "INT64_MIN",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@3559@macro@UINT64_MAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UINT64_MAX",
+    "location": {
+      "column": "11",
+      "line": "114",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "UINT64_MAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@3612@macro@INT_LEAST8_MAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INT_LEAST8_MAX",
+    "location": {
+      "column": "9",
+      "line": "117",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "INT_LEAST8_MAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@3662@macro@INT_LEAST8_MIN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INT_LEAST8_MIN",
+    "location": {
+      "column": "9",
+      "line": "118",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "INT_LEAST8_MIN",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@3712@macro@UINT_LEAST8_MAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UINT_LEAST8_MAX",
+    "location": {
+      "column": "9",
+      "line": "119",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "UINT_LEAST8_MAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@3764@macro@INT_LEAST16_MAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INT_LEAST16_MAX",
+    "location": {
+      "column": "9",
+      "line": "121",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "INT_LEAST16_MAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@3815@macro@INT_LEAST16_MIN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INT_LEAST16_MIN",
+    "location": {
+      "column": "9",
+      "line": "122",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "INT_LEAST16_MIN",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@3866@macro@UINT_LEAST16_MAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UINT_LEAST16_MAX",
+    "location": {
+      "column": "9",
+      "line": "123",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "UINT_LEAST16_MAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@3919@macro@INT_LEAST32_MAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INT_LEAST32_MAX",
+    "location": {
+      "column": "9",
+      "line": "125",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "INT_LEAST32_MAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@3970@macro@INT_LEAST32_MIN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INT_LEAST32_MIN",
+    "location": {
+      "column": "9",
+      "line": "126",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "INT_LEAST32_MIN",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@4021@macro@UINT_LEAST32_MAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UINT_LEAST32_MAX",
+    "location": {
+      "column": "9",
+      "line": "127",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "UINT_LEAST32_MAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@4107@macro@INT_LEAST64_MAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INT_LEAST64_MAX",
+    "location": {
+      "column": "11",
+      "line": "130",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "INT_LEAST64_MAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@4158@macro@INT_LEAST64_MIN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INT_LEAST64_MIN",
+    "location": {
+      "column": "11",
+      "line": "131",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "INT_LEAST64_MIN",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@4251@macro@UINT_LEAST64_MAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UINT_LEAST64_MAX",
+    "location": {
+      "column": "11",
+      "line": "135",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "UINT_LEAST64_MAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@4310@macro@INT_FAST8_MAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INT_FAST8_MAX",
+    "location": {
+      "column": "9",
+      "line": "138",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "INT_FAST8_MAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@4359@macro@INT_FAST8_MIN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INT_FAST8_MIN",
+    "location": {
+      "column": "9",
+      "line": "139",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "INT_FAST8_MIN",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@4408@macro@UINT_FAST8_MAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UINT_FAST8_MAX",
+    "location": {
+      "column": "9",
+      "line": "140",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "UINT_FAST8_MAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@4459@macro@INT_FAST16_MAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INT_FAST16_MAX",
+    "location": {
+      "column": "9",
+      "line": "142",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "INT_FAST16_MAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@4509@macro@INT_FAST16_MIN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INT_FAST16_MIN",
+    "location": {
+      "column": "9",
+      "line": "143",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "INT_FAST16_MIN",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@4559@macro@UINT_FAST16_MAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UINT_FAST16_MAX",
+    "location": {
+      "column": "9",
+      "line": "144",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "UINT_FAST16_MAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@4611@macro@INT_FAST32_MAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INT_FAST32_MAX",
+    "location": {
+      "column": "9",
+      "line": "146",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "INT_FAST32_MAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@4661@macro@INT_FAST32_MIN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INT_FAST32_MIN",
+    "location": {
+      "column": "9",
+      "line": "147",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "INT_FAST32_MIN",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@4711@macro@UINT_FAST32_MAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UINT_FAST32_MAX",
+    "location": {
+      "column": "9",
+      "line": "148",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "UINT_FAST32_MAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@4795@macro@INT_FAST64_MAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INT_FAST64_MAX",
+    "location": {
+      "column": "11",
+      "line": "151",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "INT_FAST64_MAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@4845@macro@INT_FAST64_MIN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INT_FAST64_MIN",
+    "location": {
+      "column": "11",
+      "line": "152",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "INT_FAST64_MIN",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@4936@macro@UINT_FAST64_MAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UINT_FAST64_MAX",
+    "location": {
+      "column": "11",
+      "line": "156",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "UINT_FAST64_MAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@4994@macro@INTMAX_MAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INTMAX_MAX",
+    "location": {
+      "column": "9",
+      "line": "159",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "INTMAX_MAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@5040@macro@INTMAX_MIN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INTMAX_MIN",
+    "location": {
+      "column": "9",
+      "line": "160",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "INTMAX_MIN",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@5086@macro@UINTMAX_MAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UINTMAX_MAX",
+    "location": {
+      "column": "9",
+      "line": "161",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "UINTMAX_MAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@5134@macro@SIZE_MAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SIZE_MAX",
+    "location": {
+      "column": "9",
+      "line": "163",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "SIZE_MAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@5179@macro@PTRDIFF_MAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "PTRDIFF_MAX",
+    "location": {
+      "column": "9",
+      "line": "165",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "PTRDIFF_MAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@5225@macro@PTRDIFF_MIN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "PTRDIFF_MIN",
+    "location": {
+      "column": "9",
+      "line": "166",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "PTRDIFF_MIN",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@5273@macro@INTPTR_MAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INTPTR_MAX",
+    "location": {
+      "column": "9",
+      "line": "168",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "INTPTR_MAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@5319@macro@INTPTR_MIN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INTPTR_MIN",
+    "location": {
+      "column": "9",
+      "line": "169",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "INTPTR_MIN",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@5365@macro@UINTPTR_MAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UINTPTR_MAX",
+    "location": {
+      "column": "9",
+      "line": "170",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "UINTPTR_MAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@5413@macro@WCHAR_MIN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "WCHAR_MIN",
+    "location": {
+      "column": "9",
+      "line": "172",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "WCHAR_MIN",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@5448@macro@WCHAR_MAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "WCHAR_MAX",
+    "location": {
+      "column": "9",
+      "line": "173",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "WCHAR_MAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@5485@macro@WINT_MIN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "WINT_MIN",
+    "location": {
+      "column": "9",
+      "line": "175",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "WINT_MIN",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@5520@macro@WINT_MAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "WINT_MAX",
+    "location": {
+      "column": "9",
+      "line": "176",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "WINT_MAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@5557@macro@SIG_ATOMIC_MIN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SIG_ATOMIC_MIN",
+    "location": {
+      "column": "9",
+      "line": "178",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "SIG_ATOMIC_MIN",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@5605@macro@SIG_ATOMIC_MAX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SIG_ATOMIC_MAX",
+    "location": {
+      "column": "9",
+      "line": "179",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "SIG_ATOMIC_MAX",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@5729@macro@INT8_C",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INT8_C",
+    "location": {
+      "column": "11",
+      "line": "184",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "INT8_C",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@5779@macro@UINT8_C",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UINT8_C",
+    "location": {
+      "column": "11",
+      "line": "185",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "UINT8_C",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@5865@macro@INT16_C",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INT16_C",
+    "location": {
+      "column": "11",
+      "line": "189",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "INT16_C",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@5916@macro@UINT16_C",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UINT16_C",
+    "location": {
+      "column": "11",
+      "line": "190",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "UINT16_C",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@6003@macro@INT32_C",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INT32_C",
+    "location": {
+      "column": "11",
+      "line": "194",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "INT32_C",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@6054@macro@UINT32_C",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UINT32_C",
+    "location": {
+      "column": "11",
+      "line": "195",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "UINT32_C",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@6147@macro@INT64_C",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INT64_C",
+    "location": {
+      "column": "11",
+      "line": "199",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "INT64_C",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@6240@macro@UINT64_C",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UINT64_C",
+    "location": {
+      "column": "11",
+      "line": "203",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "UINT64_C",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@6300@macro@INTMAX_C",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INTMAX_C",
+    "location": {
+      "column": "9",
+      "line": "206",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "INTMAX_C",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdint.h@6352@macro@UINTMAX_C",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UINTMAX_C",
+    "location": {
+      "column": "9",
+      "line": "207",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdint.h"
+    },
+    "name": "UINTMAX_C",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@1169@macro@_DLIB_DEFAULTS_H",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_DEFAULTS_H",
+    "location": {
+      "column": "9",
+      "line": "31",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_DEFAULTS_H",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@3035@macro@_DLIB_FILE_DESCRIPTOR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_FILE_DESCRIPTOR",
+    "location": {
+      "column": "11",
+      "line": "85",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_FILE_DESCRIPTOR",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@3448@macro@_DLIB_STDOUT_USES_STATIC_BUFFER",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_STDOUT_USES_STATIC_BUFFER",
+    "location": {
+      "column": "11",
+      "line": "100",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_STDOUT_USES_STATIC_BUFFER",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@4471@macro@_DLIB_FULL_LOCALE_SUPPORT",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_FULL_LOCALE_SUPPORT",
+    "location": {
+      "column": "11",
+      "line": "127",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_FULL_LOCALE_SUPPORT",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@4649@macro@_DLIB_LOCALE_TABLE_MEMORY",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_LOCALE_TABLE_MEMORY",
+    "location": {
+      "column": "11",
+      "line": "135",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_LOCALE_TABLE_MEMORY",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@5493@macro@_DLIB_FORMATTED_MULTIBYTE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_FORMATTED_MULTIBYTE",
+    "location": {
+      "column": "11",
+      "line": "165",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_FORMATTED_MULTIBYTE",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@6974@macro@_DLIB_PRINTF_MULTIBYTE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_PRINTF_MULTIBYTE",
+    "location": {
+      "column": "11",
+      "line": "213",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_PRINTF_MULTIBYTE",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@7889@macro@_DLIB_PRINTF_INT_TYPE_IS_INT",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_PRINTF_INT_TYPE_IS_INT",
+    "location": {
+      "column": "11",
+      "line": "238",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_PRINTF_INT_TYPE_IS_INT",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@8492@macro@_DLIB_PRINTF_INT_TYPE_IS_LONG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_PRINTF_INT_TYPE_IS_LONG",
+    "location": {
+      "column": "11",
+      "line": "255",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_PRINTF_INT_TYPE_IS_LONG",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@9338@macro@_DLIB_PRINTF_CHAR_BY_CHAR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_PRINTF_CHAR_BY_CHAR",
+    "location": {
+      "column": "11",
+      "line": "277",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_PRINTF_CHAR_BY_CHAR",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@10025@macro@_DLIB_SCANF_MULTIBYTE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_SCANF_MULTIBYTE",
+    "location": {
+      "column": "11",
+      "line": "301",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_SCANF_MULTIBYTE",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@10673@macro@_DLIB_STRFTIME_MULTIBYTE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_STRFTIME_MULTIBYTE",
+    "location": {
+      "column": "11",
+      "line": "321",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_STRFTIME_MULTIBYTE",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@11257@macro@_DLIB_QSORT_USE_BUBBLE_SORT",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_QSORT_USE_BUBBLE_SORT",
+    "location": {
+      "column": "11",
+      "line": "340",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_QSORT_USE_BUBBLE_SORT",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@11840@macro@_DLIB_RAND_USE_SIMPLE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_RAND_USE_SIMPLE",
+    "location": {
+      "column": "11",
+      "line": "365",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_RAND_USE_SIMPLE",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@12026@macro@_DLIB_DEBUG_BREAK_FUNCTION_ATTRIBUTE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_DEBUG_BREAK_FUNCTION_ATTRIBUTE",
+    "location": {
+      "column": "11",
+      "line": "374",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_DEBUG_BREAK_FUNCTION_ATTRIBUTE",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@12745@macro@_DLIB_DATA_ATTR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_DATA_ATTR",
+    "location": {
+      "column": "11",
+      "line": "390",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_DATA_ATTR",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@12836@macro@_DLIB_CONST_ATTR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_CONST_ATTR",
+    "location": {
+      "column": "13",
+      "line": "395",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_CONST_ATTR",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@13453@macro@_DLIB_MBSTATET_USES_UNSIGNED_LONG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_MBSTATET_USES_UNSIGNED_LONG",
+    "location": {
+      "column": "15",
+      "line": "421",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_MBSTATET_USES_UNSIGNED_LONG",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@13636@macro@_DLIB_TIME_USES_LONG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_TIME_USES_LONG",
+    "location": {
+      "column": "15",
+      "line": "429",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_TIME_USES_LONG",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@14183@macro@_DLIB_AEABI_DIFUNC_CONTAINS_OFFSETS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_AEABI_DIFUNC_CONTAINS_OFFSETS",
+    "location": {
+      "column": "13",
+      "line": "443",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_AEABI_DIFUNC_CONTAINS_OFFSETS",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@14573@macro@_DLIB_ONLY_USE_CXA_FUNCTIONS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_ONLY_USE_CXA_FUNCTIONS",
+    "location": {
+      "column": "13",
+      "line": "458",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_ONLY_USE_CXA_FUNCTIONS",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@15142@macro@_DLIB_FAST_FMA",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_FAST_FMA",
+    "location": {
+      "column": "11",
+      "line": "485",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_FAST_FMA",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@16042@macro@_DLIB_INCLUDE_DLMALLOC_ALTERNATIVE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_INCLUDE_DLMALLOC_ALTERNATIVE",
+    "location": {
+      "column": "13",
+      "line": "515",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_INCLUDE_DLMALLOC_ALTERNATIVE",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@16406@macro@_DLIB_TIME_ALLOW_64",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_TIME_ALLOW_64",
+    "location": {
+      "column": "13",
+      "line": "537",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_TIME_ALLOW_64",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@16609@macro@_DLIB_TIME_USES_64_DEFAULT",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_TIME_USES_64_DEFAULT",
+    "location": {
+      "column": "11",
+      "line": "551",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_TIME_USES_64_DEFAULT",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@16863@macro@_DLIB_ALLOW_LARGE_CONSTANT_TABLES_FOR_MATH",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_ALLOW_LARGE_CONSTANT_TABLES_FOR_MATH",
+    "location": {
+      "column": "11",
+      "line": "562",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "_DLIB_ALLOW_LARGE_CONSTANT_TABLES_FOR_MATH",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@17263@macro@__WEAK",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__WEAK",
+    "location": {
+      "column": "11",
+      "line": "579",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "__WEAK",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Defaults.h@17318@macro@__WEAK_DEFS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__WEAK_DEFS",
+    "location": {
+      "column": "11",
+      "line": "580",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Defaults.h"
+    },
+    "name": "__WEAK_DEFS",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@75@macro@_DLIB_PRODUCTS_H_",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_PRODUCTS_H_",
+    "location": {
+      "column": "9",
+      "line": "4",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_PRODUCTS_H_",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@524@macro@_DLIB_WIDE_CHARACTERS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_WIDE_CHARACTERS",
+    "location": {
+      "column": "9",
+      "line": "21",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_WIDE_CHARACTERS",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@680@macro@_DLIB_PRODUCT_STRING",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_PRODUCT_STRING",
+    "location": {
+      "column": "9",
+      "line": "25",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_PRODUCT_STRING",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@831@macro@_DLIB_PRODUCT_FENV",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_PRODUCT_FENV",
+    "location": {
+      "column": "9",
+      "line": "29",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_PRODUCT_FENV",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@984@macro@_DLIB_PRODUCT_STDLIB",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_PRODUCT_STDLIB",
+    "location": {
+      "column": "9",
+      "line": "33",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_PRODUCT_STDLIB",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@1095@macro@_DLIB_QSORT_BUF_SIZE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_QSORT_BUF_SIZE",
+    "location": {
+      "column": "9",
+      "line": "37",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_QSORT_BUF_SIZE",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@1270@macro@_DLIB_SUPPORT_FOR_AEABI",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_SUPPORT_FOR_AEABI",
+    "location": {
+      "column": "9",
+      "line": "46",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_SUPPORT_FOR_AEABI",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@1353@macro@_DLIB_USE_RTMODEL_JMP_BUF_NUM_ELEMENTS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_USE_RTMODEL_JMP_BUF_NUM_ELEMENTS",
+    "location": {
+      "column": "9",
+      "line": "49",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_USE_RTMODEL_JMP_BUF_NUM_ELEMENTS",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@1479@macro@_DLIB_STRTOD_HEX_FLOAT",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_STRTOD_HEX_FLOAT",
+    "location": {
+      "column": "9",
+      "line": "53",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_STRTOD_HEX_FLOAT",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@1929@macro@__SOFTFP",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__SOFTFP",
+    "location": {
+      "column": "9",
+      "line": "69",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "__SOFTFP",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@2045@macro@__NO_SCRATCH",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__NO_SCRATCH",
+    "location": {
+      "column": "9",
+      "line": "72",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "__NO_SCRATCH",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@2169@macro@_DLIB_SPEEDY_FLOATS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_SPEEDY_FLOATS",
+    "location": {
+      "column": "9",
+      "line": "75",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_SPEEDY_FLOATS",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@2246@macro@_DLIB_ELF_INIT_STATIC_BASE_DECLARATION",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_ELF_INIT_STATIC_BASE_DECLARATION",
+    "location": {
+      "column": "9",
+      "line": "78",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_ELF_INIT_STATIC_BASE_DECLARATION",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@2327@macro@_DLIB_ELF_INIT_STATIC_BASE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_ELF_INIT_STATIC_BASE",
+    "location": {
+      "column": "9",
+      "line": "79",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_ELF_INIT_STATIC_BASE",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@2372@macro@_DLIB_ELF_INIT_FUNCTION_ATTRIBUTES",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_ELF_INIT_FUNCTION_ATTRIBUTES",
+    "location": {
+      "column": "9",
+      "line": "80",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_ELF_INIT_FUNCTION_ATTRIBUTES",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@2467@macro@_DLIB_ELF_INIT_TABLE_MEMORY",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_ELF_INIT_TABLE_MEMORY",
+    "location": {
+      "column": "9",
+      "line": "82",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_ELF_INIT_TABLE_MEMORY",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@2517@macro@_DLIB_ELF_INIT_SOURCE_MEMORY",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_ELF_INIT_SOURCE_MEMORY",
+    "location": {
+      "column": "9",
+      "line": "83",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_ELF_INIT_SOURCE_MEMORY",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@2567@macro@_DLIB_ELF_INIT_DESTINATION_MEMORY",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_ELF_INIT_DESTINATION_MEMORY",
+    "location": {
+      "column": "9",
+      "line": "84",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_ELF_INIT_DESTINATION_MEMORY",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@2617@macro@_DLIB_ELF_INIT_USE_RELATIVE_ROM_ADDRESSES",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_ELF_INIT_USE_RELATIVE_ROM_ADDRESSES",
+    "location": {
+      "column": "9",
+      "line": "85",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_ELF_INIT_USE_RELATIVE_ROM_ADDRESSES",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@2670@macro@_DLIB_ELF_INIT_REGION_COUNT_TYPE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_ELF_INIT_REGION_COUNT_TYPE",
+    "location": {
+      "column": "9",
+      "line": "86",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_ELF_INIT_REGION_COUNT_TYPE",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@3098@macro@_DLIB_ELF_INIT_MODULE_ATTRIBUTES",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_ELF_INIT_MODULE_ATTRIBUTES",
+    "location": {
+      "column": "9",
+      "line": "96",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_ELF_INIT_MODULE_ATTRIBUTES",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@3510@macro@_DLIB_ELF_INIT_INTERFACE_VERSION",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_ELF_INIT_INTERFACE_VERSION",
+    "location": {
+      "column": "9",
+      "line": "105",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_ELF_INIT_INTERFACE_VERSION",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@3556@macro@_DLIB_USE_RTMODEL_JMP_BUF_NUM_ELEMENTS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_USE_RTMODEL_JMP_BUF_NUM_ELEMENTS",
+    "location": {
+      "column": "9",
+      "line": "107",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_DLIB_USE_RTMODEL_JMP_BUF_NUM_ELEMENTS",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@3608@macro@_XMATHWRAPPERS_DEF",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_XMATHWRAPPERS_DEF",
+    "location": {
+      "column": "9",
+      "line": "109",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_XMATHWRAPPERS_DEF",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Product.h@3657@macro@_CPPINIT_ATTR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_CPPINIT_ATTR",
+    "location": {
+      "column": "9",
+      "line": "111",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Product.h"
+    },
+    "name": "_CPPINIT_ATTR",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:cpu-port.h@89@macro@CPU_PORT_H_",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "CPU_PORT_H_",
+    "location": {
+      "column": "9",
+      "line": "9",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+    },
+    "name": "CPU_PORT_H_",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:cpu-port.h@227@macro@TAM_MINIMO_PILHA",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TAM_MINIMO_PILHA",
+    "location": {
+      "column": "9",
+      "line": "15",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+    },
+    "name": "TAM_MINIMO_PILHA",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:cpu-port.h@T@stackptr_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "uint32_t *",
+    "location": {
+      "column": "19",
+      "line": "18",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+    },
+    "name": "stackptr_t",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:cpu-port.h@321@macro@SP_TYPECAST",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SP_TYPECAST",
+    "location": {
+      "column": "9",
+      "line": "19",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+    },
+    "name": "SP_TYPECAST",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:cpu-port.h@392@macro@NVIC_INT_CTRL_B",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_INT_CTRL_B",
+    "location": {
+      "column": "9",
+      "line": "23",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+    },
+    "name": "NVIC_INT_CTRL_B",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:cpu-port.h@467@macro@NVIC_SYSPRI3",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_SYSPRI3",
+    "location": {
+      "column": "9",
+      "line": "24",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+    },
+    "name": "NVIC_SYSPRI3",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:cpu-port.h@532@macro@NVIC_SYSTICK_CTRL",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_SYSTICK_CTRL",
+    "location": {
+      "column": "9",
+      "line": "25",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+    },
+    "name": "NVIC_SYSTICK_CTRL",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:cpu-port.h@607@macro@NVIC_SYSTICK_LOAD",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_SYSTICK_LOAD",
+    "location": {
+      "column": "9",
+      "line": "26",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+    },
+    "name": "NVIC_SYSTICK_LOAD",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:cpu-port.h@683@macro@NVIC_PENDSVSET",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PENDSVSET",
+    "location": {
+      "column": "9",
+      "line": "28",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+    },
+    "name": "NVIC_PENDSVSET",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:cpu-port.h@762@macro@NVIC_PENDSVCLR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PENDSVCLR",
+    "location": {
+      "column": "9",
+      "line": "29",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+    },
+    "name": "NVIC_PENDSVCLR",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:cpu-port.h@838@macro@NVIC_SYSTICK_CLK",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_SYSTICK_CLK",
+    "location": {
+      "column": "9",
+      "line": "30",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+    },
+    "name": "NVIC_SYSTICK_CLK",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:cpu-port.h@883@macro@NVIC_SYSTICK_INT",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_SYSTICK_INT",
+    "location": {
+      "column": "9",
+      "line": "31",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+    },
+    "name": "NVIC_SYSTICK_INT",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:cpu-port.h@928@macro@NVIC_SYSTICK_ENABLE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_SYSTICK_ENABLE",
+    "location": {
+      "column": "9",
+      "line": "32",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+    },
+    "name": "NVIC_SYSTICK_ENABLE",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:cpu-port.h@973@macro@PRIO_BITS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "PRIO_BITS",
+    "location": {
+      "column": "9",
+      "line": "33",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+    },
+    "name": "PRIO_BITS",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:cpu-port.h@1048@macro@LOWEST_INTERRUPT_PRIORITY",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "LOWEST_INTERRUPT_PRIORITY",
+    "location": {
+      "column": "9",
+      "line": "34",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+    },
+    "name": "LOWEST_INTERRUPT_PRIORITY",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:cpu-port.h@1087@macro@KERNEL_INTERRUPT_PRIORITY",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "KERNEL_INTERRUPT_PRIORITY",
+    "location": {
+      "column": "9",
+      "line": "35",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+    },
+    "name": "KERNEL_INTERRUPT_PRIORITY",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:cpu-port.h@1171@macro@NVIC_PENDSV_PRI",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_PENDSV_PRI",
+    "location": {
+      "column": "9",
+      "line": "36",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+    },
+    "name": "NVIC_PENDSV_PRI",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:cpu-port.h@1256@macro@NVIC_SYSTICK_PRI",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NVIC_SYSTICK_PRI",
+    "location": {
+      "column": "9",
+      "line": "37",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+    },
+    "name": "NVIC_SYSTICK_PRI",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:cpu-port.h@1404@macro@REG_ATOMICA_INICIO",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "REG_ATOMICA_INICIO",
+    "location": {
+      "column": "9",
+      "line": "41",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+    },
+    "name": "REG_ATOMICA_INICIO",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:cpu-port.h@1456@macro@REG_ATOMICA_FIM",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "REG_ATOMICA_FIM",
+    "location": {
+      "column": "9",
+      "line": "42",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+    },
+    "name": "REG_ATOMICA_FIM",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:cpu-port.h@1506@macro@TROCA_CONTEXTO",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TROCA_CONTEXTO",
+    "location": {
+      "column": "9",
+      "line": "44",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+    },
+    "name": "TROCA_CONTEXTO",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:cpu-port.h@1591@macro@TrocaContexto",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TrocaContexto",
+    "location": {
+      "column": "9",
+      "line": "45",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+    },
+    "name": "TrocaContexto",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:cpu-port.h@1637@macro@Clear_PendSV",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "Clear_PendSV",
+    "location": {
+      "column": "9",
+      "line": "46",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+    },
+    "name": "Clear_PendSV",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:cpu-port.h@1705@macro@GERA_INTERRUPCAO_SW",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GERA_INTERRUPCAO_SW",
+    "location": {
+      "column": "9",
+      "line": "48",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+    },
+    "name": "GERA_INTERRUPCAO_SW",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:cpu-port.h@1853@macro@RESTAURA_SP",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "RESTAURA_SP",
+    "location": {
+      "column": "9",
+      "line": "54",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+    },
+    "name": "RESTAURA_SP",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:cpu-port.h@1936@macro@SALVA_SP",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SALVA_SP",
+    "location": {
+      "column": "9",
+      "line": "57",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+    },
+    "name": "SALVA_SP",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:cpu-port.h@2012@macro@SALVA_CONTEXTO",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SALVA_CONTEXTO",
+    "location": {
+      "column": "9",
+      "line": "60",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+    },
+    "name": "SALVA_CONTEXTO",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:cpu-port.h@2780@macro@RESTAURA_CONTEXTO",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "RESTAURA_CONTEXTO",
+    "location": {
+      "column": "9",
+      "line": "73",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+    },
+    "name": "RESTAURA_CONTEXTO",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:cpu-port.h@4073@macro@SALVA_ISR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SALVA_ISR",
+    "location": {
+      "column": "9",
+      "line": "90",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+    },
+    "name": "SALVA_ISR",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:cpu-port.h@4131@macro@RESTAURA_ISR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "RESTAURA_ISR",
+    "location": {
+      "column": "9",
+      "line": "92",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+    },
+    "name": "RESTAURA_ISR",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:ycheck.h@1402@macro@__AEABI_PORTABILITY_INTERNAL_LEVEL",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__AEABI_PORTABILITY_INTERNAL_LEVEL",
+    "location": {
+      "column": "11",
+      "line": "42",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\ycheck.h"
+    },
+    "name": "__AEABI_PORTABILITY_INTERNAL_LEVEL",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@SP",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "SP",
+    "location": {
+      "column": "20",
+      "line": "10",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.c"
+    },
+    "name": "SP",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@CriaContexto",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "uint32_t * CriaContexto(tarefa_t, stackptr_t)",
+    "location": {
+      "column": "12",
+      "line": "12",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.c"
+    },
+    "name": "CriaContexto",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:cpu-port.c@228@macro@INITIAL_XPSR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INITIAL_XPSR",
+    "location": {
+      "column": "10",
+      "line": "14",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.c"
+    },
+    "name": "INITIAL_XPSR",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:cpu-port.c@258@F@CriaContexto@reg_val",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "reg_val",
+    "location": {
+      "column": "11",
+      "line": "16",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.c"
+    },
+    "name": "reg_val",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@ConfiguraMarcaTempo",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void ConfiguraMarcaTempo(void)",
+    "location": {
+      "column": "6",
+      "line": "47",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.c"
+    },
+    "name": "ConfiguraMarcaTempo",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:cpu-port.c@1018@F@ConfiguraMarcaTempo@cpu_clock_hz",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "cpu_clock_hz",
+    "location": {
+      "column": "26",
+      "line": "50",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.c"
+    },
+    "name": "cpu_clock_hz",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:cpu-port.c@1063@F@ConfiguraMarcaTempo@valor_comparador",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "valor_comparador",
+    "location": {
+      "column": "12",
+      "line": "51",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.c"
+    },
+    "name": "valor_comparador",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SVC_Handler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SVC_Handler(void)",
+    "location": {
+      "column": "36",
+      "line": "59",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.c"
+    },
+    "name": "SVC_Handler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@PendSV_Handler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void PendSV_Handler(void)",
+    "location": {
+      "column": "36",
+      "line": "69",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.c"
+    },
+    "name": "PendSV_Handler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SysTick_Handler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SysTick_Handler(void)",
+    "location": {
+      "column": "12",
+      "line": "89",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.c"
+    },
+    "name": "SysTick_Handler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@HardFault_Handler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void HardFault_Handler(void)",
+    "location": {
+      "column": "12",
+      "line": "96",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.c"
+    },
+    "name": "HardFault_Handler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:DLib_Config_Normal.h@105@macro@_DLIB_CONFIG_H",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_DLIB_CONFIG_H",
+    "location": {
+      "column": "9",
+      "line": "5",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\DLib_Config_Normal.h"
+    },
+    "name": "_DLIB_CONFIG_H",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:multitarefas.h@70@macro@MULTITAREFAS_H_",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "MULTITAREFAS_H_",
+    "location": {
+      "column": "9",
+      "line": "8",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "MULTITAREFAS_H_",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:multitarefas.h@270@macro@NUMERO_DE_TAREFAS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NUMERO_DE_TAREFAS",
+    "location": {
+      "column": "9",
+      "line": "17",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "NUMERO_DE_TAREFAS",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:multitarefas.h@338@macro@PRIORIDADE_MAXIMA",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "PRIORIDADE_MAXIMA",
+    "location": {
+      "column": "9",
+      "line": "20",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "PRIORIDADE_MAXIMA",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:multitarefas.h@405@macro@cfg_CPU_CLOCK_HZ",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "cfg_CPU_CLOCK_HZ",
+    "location": {
+      "column": "9",
+      "line": "23",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "cfg_CPU_CLOCK_HZ",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:multitarefas.h@503@macro@cfg_MARCA_TEMPO_HZ",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "cfg_MARCA_TEMPO_HZ",
+    "location": {
+      "column": "9",
+      "line": "26",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "cfg_MARCA_TEMPO_HZ",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:multitarefas.h@T@tarefa_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "void (*)(void)",
+    "location": {
+      "column": "17",
+      "line": "28",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "tarefa_t",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@EA@estado_tarefa_t",
+    "What": "Enum",
+    "defdec": "Def",
+    "display": "",
+    "fields": [
+      {
+        "ID": "c:@EA@estado_tarefa_t@PRONTA",
+        "What": "Enumerator",
+        "defdec": "Def",
+        "display": "PRONTA",
+        "location": {
+          "column": "15",
+          "line": "29",
+          "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+        },
+        "name": "PRONTA",
+        "origin": "user_include",
+        "scope": null
+      },
+      {
+        "ID": "c:@EA@estado_tarefa_t@ESPERA",
+        "What": "Enumerator",
+        "defdec": "Def",
+        "display": "ESPERA",
+        "location": {
+          "column": "23",
+          "line": "29",
+          "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+        },
+        "name": "ESPERA",
+        "origin": "user_include",
+        "scope": null
+      }
+    ],
+    "location": {
+      "column": "9",
+      "line": "29",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@T@estado_tarefa_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "enum estado_tarefa_t",
+    "location": {
+      "column": "31",
+      "line": "29",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "estado_tarefa_t",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:multitarefas.h@T@prioridade_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "uint8_t",
+    "location": {
+      "column": "19",
+      "line": "30",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "prioridade_t",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:multitarefas.h@T@tick_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "uint16_t",
+    "location": {
+      "column": "19",
+      "line": "31",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "tick_t",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@SA@tcb_t",
+    "What": "Struct",
+    "defdec": "Def",
+    "display": "",
+    "location": {
+      "column": "9",
+      "line": "38",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "members": [
+      {
+        "ID": "c:@SA@tcb_t@FI@nome",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "nome",
+        "location": {
+          "column": "15",
+          "line": "40",
+          "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+        },
+        "name": "nome",
+        "origin": "user_include",
+        "scope": "_anonymous_multitarefas_h_38_9"
+      },
+      {
+        "ID": "c:@SA@tcb_t@FI@stack_pointer",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "stack_pointer",
+        "location": {
+          "column": "14",
+          "line": "41",
+          "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+        },
+        "name": "stack_pointer",
+        "origin": "user_include",
+        "scope": "_anonymous_multitarefas_h_38_9"
+      },
+      {
+        "ID": "c:@SA@tcb_t@FI@estado",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "estado",
+        "location": {
+          "column": "18",
+          "line": "42",
+          "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+        },
+        "name": "estado",
+        "origin": "user_include",
+        "scope": "_anonymous_multitarefas_h_38_9"
+      },
+      {
+        "ID": "c:@SA@tcb_t@FI@prioridade",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "prioridade",
+        "location": {
+          "column": "16",
+          "line": "43",
+          "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+        },
+        "name": "prioridade",
+        "origin": "user_include",
+        "scope": "_anonymous_multitarefas_h_38_9"
+      },
+      {
+        "ID": "c:@SA@tcb_t@FI@tempo_espera",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "tempo_espera",
+        "location": {
+          "column": "12",
+          "line": "44",
+          "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+        },
+        "name": "tempo_espera",
+        "origin": "user_include",
+        "scope": "_anonymous_multitarefas_h_38_9"
+      },
+      {
+        "ID": "c:@T@tcb_t",
+        "What": "TypedefDecl",
+        "defdec": "Def",
+        "display": "struct tcb_t",
+        "location": {
+          "column": "2",
+          "line": "45",
+          "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+        },
+        "name": "tcb_t",
+        "origin": "user_include",
+        "scope": "_anonymous_multitarefas_h_38_9"
+      }
+    ],
+    "name": "",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@tarefa_atual",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "tarefa_atual",
+    "location": {
+      "column": "18",
+      "line": "47",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "tarefa_atual",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@proxima_tarefa",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "proxima_tarefa",
+    "location": {
+      "column": "18",
+      "line": "48",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "proxima_tarefa",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@TCB",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "TCB",
+    "location": {
+      "column": "16",
+      "line": "49",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "TCB",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@ponteiro_de_pilha",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "ponteiro_de_pilha",
+    "location": {
+      "column": "20",
+      "line": "50",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "ponteiro_de_pilha",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@Prioridades",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "Prioridades",
+    "location": {
+      "column": "22",
+      "line": "51",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "Prioridades",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@SA@semaforo_t",
+    "What": "Struct",
+    "defdec": "Def",
+    "display": "",
+    "location": {
+      "column": "9",
+      "line": "58",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "members": [
+      {
+        "ID": "c:@SA@semaforo_t@FI@contador",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "contador",
+        "location": {
+          "column": "14",
+          "line": "60",
+          "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+        },
+        "name": "contador",
+        "origin": "user_include",
+        "scope": "_anonymous_multitarefas_h_58_9"
+      },
+      {
+        "ID": "c:@SA@semaforo_t@FI@tarefaEsperando",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "tarefaEsperando",
+        "location": {
+          "column": "14",
+          "line": "61",
+          "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+        },
+        "name": "tarefaEsperando",
+        "origin": "user_include",
+        "scope": "_anonymous_multitarefas_h_58_9"
+      }
+    ],
+    "name": "",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@T@semaforo_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "struct semaforo_t",
+    "location": {
+      "column": "3",
+      "line": "62",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "semaforo_t",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tarefa_ociosa",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void tarefa_ociosa(void)",
+    "location": {
+      "column": "6",
+      "line": "65",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "tarefa_ociosa",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tarefa_ociosa",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void tarefa_ociosa(void)",
+    "location": {
+      "column": "6",
+      "line": "65",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "tarefa_ociosa",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@escalonador",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "uint8_t escalonador(void)",
+    "location": {
+      "column": "9",
+      "line": "66",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "escalonador",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@escalonador",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "uint8_t escalonador(void)",
+    "location": {
+      "column": "9",
+      "line": "66",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "escalonador",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TrocaContextoDasTarefas",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void TrocaContextoDasTarefas(void)",
+    "location": {
+      "column": "6",
+      "line": "68",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "TrocaContextoDasTarefas",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TrocaContextoDasTarefas",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void TrocaContextoDasTarefas(void)",
+    "location": {
+      "column": "6",
+      "line": "68",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "TrocaContextoDasTarefas",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@CriaContexto",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "uint32_t * CriaContexto(tarefa_t, uint32_t *)",
+    "location": {
+      "column": "12",
+      "line": "69",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "CriaContexto",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@CriaContexto",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "uint32_t * CriaContexto(tarefa_t, uint32_t *)",
+    "location": {
+      "column": "12",
+      "line": "69",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "CriaContexto",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@CriaTarefa",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void CriaTarefa(tarefa_t, const char *, stackptr_t, uint16_t, prioridade_t)",
+    "location": {
+      "column": "6",
+      "line": "70",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "CriaTarefa",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@CriaTarefa",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void CriaTarefa(tarefa_t, const char *, stackptr_t, uint16_t, prioridade_t)",
+    "location": {
+      "column": "6",
+      "line": "70",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "CriaTarefa",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@IniciaMultitarefas",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void IniciaMultitarefas(void)",
+    "location": {
+      "column": "6",
+      "line": "71",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "IniciaMultitarefas",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@IniciaMultitarefas",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void IniciaMultitarefas(void)",
+    "location": {
+      "column": "6",
+      "line": "71",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "IniciaMultitarefas",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@ConfiguraMarcaTempo",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void ConfiguraMarcaTempo(void)",
+    "location": {
+      "column": "6",
+      "line": "72",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "ConfiguraMarcaTempo",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@ConfiguraMarcaTempo",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void ConfiguraMarcaTempo(void)",
+    "location": {
+      "column": "6",
+      "line": "72",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "ConfiguraMarcaTempo",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@ExecutaMarcaDeTempo",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void ExecutaMarcaDeTempo(void)",
+    "location": {
+      "column": "6",
+      "line": "73",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "ExecutaMarcaDeTempo",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@ExecutaMarcaDeTempo",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void ExecutaMarcaDeTempo(void)",
+    "location": {
+      "column": "6",
+      "line": "73",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "ExecutaMarcaDeTempo",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TarefaSuspende",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void TarefaSuspende(uint8_t)",
+    "location": {
+      "column": "6",
+      "line": "75",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "TarefaSuspende",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TarefaSuspende",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void TarefaSuspende(uint8_t)",
+    "location": {
+      "column": "6",
+      "line": "75",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "TarefaSuspende",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TarefaContinua",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void TarefaContinua(uint8_t)",
+    "location": {
+      "column": "6",
+      "line": "76",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "TarefaContinua",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TarefaContinua",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void TarefaContinua(uint8_t)",
+    "location": {
+      "column": "6",
+      "line": "76",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "TarefaContinua",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TarefaEspera",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void TarefaEspera(tick_t)",
+    "location": {
+      "column": "6",
+      "line": "77",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "TarefaEspera",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TarefaEspera",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void TarefaEspera(tick_t)",
+    "location": {
+      "column": "6",
+      "line": "77",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "TarefaEspera",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SemaforoAguarda",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void SemaforoAguarda(semaforo_t *)",
+    "location": {
+      "column": "6",
+      "line": "79",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "SemaforoAguarda",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SemaforoAguarda",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void SemaforoAguarda(semaforo_t *)",
+    "location": {
+      "column": "6",
+      "line": "79",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "SemaforoAguarda",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SemaforoLibera",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void SemaforoLibera(semaforo_t *)",
+    "location": {
+      "column": "6",
+      "line": "80",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "SemaforoLibera",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SemaforoLibera",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void SemaforoLibera(semaforo_t *)",
+    "location": {
+      "column": "6",
+      "line": "80",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+    },
+    "name": "SemaforoLibera",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdio.h@99@macro@_STDIO",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_STDIO",
+    "location": {
+      "column": "9",
+      "line": "4",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdio.h"
+    },
+    "name": "_STDIO",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdio.h@375@macro@NULL",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NULL",
+    "location": {
+      "column": "11",
+      "line": "19",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdio.h"
+    },
+    "name": "NULL",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdio.h@3283@macro@EOF",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "EOF",
+    "location": {
+      "column": "9",
+      "line": "103",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdio.h"
+    },
+    "name": "EOF",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdio.h@3315@macro@SEEK_SET",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SEEK_SET",
+    "location": {
+      "column": "9",
+      "line": "105",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdio.h"
+    },
+    "name": "SEEK_SET",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdio.h@3342@macro@SEEK_CUR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SEEK_CUR",
+    "location": {
+      "column": "9",
+      "line": "106",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdio.h"
+    },
+    "name": "SEEK_CUR",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdio.h@3369@macro@SEEK_END",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SEEK_END",
+    "location": {
+      "column": "9",
+      "line": "107",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdio.h"
+    },
+    "name": "SEEK_END",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdio.h@T@fpos_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "_Fpost",
+    "location": {
+      "column": "16",
+      "line": "110",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdio.h"
+    },
+    "name": "fpos_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdio.h@3737@macro@__PRINTFPR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__PRINTFPR",
+    "location": {
+      "column": "11",
+      "line": "126",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdio.h"
+    },
+    "name": "__PRINTFPR",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdio.h@3934@macro@__SCANFPR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__SCANFPR",
+    "location": {
+      "column": "11",
+      "line": "129",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdio.h"
+    },
+    "name": "__SCANFPR",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdio.h@4131@macro@__SCANFSPR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__SCANFSPR",
+    "location": {
+      "column": "11",
+      "line": "132",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdio.h"
+    },
+    "name": "__SCANFSPR",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdio.h@4448@macro@__DEPREC_PRINTF",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__DEPREC_PRINTF",
+    "location": {
+      "column": "9",
+      "line": "141",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdio.h"
+    },
+    "name": "__DEPREC_PRINTF",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stdio.h@4493@macro@__DEPREC_SCANF",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__DEPREC_SCANF",
+    "location": {
+      "column": "9",
+      "line": "142",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdio.h"
+    },
+    "name": "__DEPREC_SCANF",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@__gets",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "char * __gets(char *, int)",
+    "location": {
+      "column": "37",
+      "line": "197",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdio.h"
+    },
+    "name": "__gets",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@gets",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "char * gets(char *)",
+    "location": {
+      "column": "37",
+      "line": "198",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdio.h"
+    },
+    "name": "gets",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@perror",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void perror(const char *)",
+    "location": {
+      "column": "39",
+      "line": "200",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdio.h"
+    },
+    "name": "perror",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@printf",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "int printf(const char *restrict, ...)",
+    "location": {
+      "column": "39",
+      "line": "201",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdio.h"
+    },
+    "name": "printf",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@puts",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "int puts(const char *)",
+    "location": {
+      "column": "39",
+      "line": "202",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdio.h"
+    },
+    "name": "puts",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@scanf",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "int scanf(const char *restrict, ...)",
+    "location": {
+      "column": "39",
+      "line": "203",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdio.h"
+    },
+    "name": "scanf",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@sprintf",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "int sprintf(char *restrict, const char *restrict, ...)",
+    "location": {
+      "column": "39",
+      "line": "204",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdio.h"
+    },
+    "name": "sprintf",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@sscanf",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "int sscanf(const char *restrict, const char *restrict, ...)",
+    "location": {
+      "column": "39",
+      "line": "206",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdio.h"
+    },
+    "name": "sscanf",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@__ungetchar",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "int __ungetchar(int)",
+    "location": {
+      "column": "39",
+      "line": "209",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdio.h"
+    },
+    "name": "__ungetchar",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@vprintf",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "int vprintf(const char *restrict, __Va_list)",
+    "location": {
+      "column": "39",
+      "line": "210",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdio.h"
+    },
+    "name": "vprintf",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@vscanf",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "int vscanf(const char *restrict, __Va_list)",
+    "location": {
+      "column": "37",
+      "line": "213",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdio.h"
+    },
+    "name": "vscanf",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@vsscanf",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "int vsscanf(const char *restrict, const char *restrict, __Va_list)",
+    "location": {
+      "column": "37",
+      "line": "214",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdio.h"
+    },
+    "name": "vsscanf",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@vsprintf",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "int vsprintf(char *restrict, const char *restrict, __Va_list)",
+    "location": {
+      "column": "37",
+      "line": "217",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdio.h"
+    },
+    "name": "vsprintf",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@__write_array",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "size_t __write_array(const void *, size_t, size_t)",
+    "location": {
+      "column": "35",
+      "line": "220",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdio.h"
+    },
+    "name": "__write_array",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@snprintf",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "int snprintf(char *restrict, size_t, const char *restrict, ...)",
+    "location": {
+      "column": "38",
+      "line": "222",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdio.h"
+    },
+    "name": "snprintf",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@vsnprintf",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "int vsnprintf(char *restrict, size_t, const char *restrict, __Va_list)",
+    "location": {
+      "column": "38",
+      "line": "224",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdio.h"
+    },
+    "name": "vsnprintf",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@getchar",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "int getchar(void)",
+    "location": {
+      "column": "35",
+      "line": "229",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdio.h"
+    },
+    "name": "getchar",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@putchar",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "int putchar(int)",
+    "location": {
+      "column": "35",
+      "line": "230",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdio.h"
+    },
+    "name": "putchar",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@remove",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "int remove(const char *)",
+    "location": {
+      "column": "35",
+      "line": "233",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdio.h"
+    },
+    "name": "remove",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@rename",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "int rename(const char *, const char *)",
+    "location": {
+      "column": "35",
+      "line": "234",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\stdio.h"
+    },
+    "name": "rename",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@thread0",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void thread0(void)",
+    "location": {
+      "column": "6",
+      "line": "9",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "thread0",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@thread1",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void thread1(void)",
+    "location": {
+      "column": "6",
+      "line": "10",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "thread1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@thread2",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void thread2(void)",
+    "location": {
+      "column": "6",
+      "line": "11",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "thread2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@thread3",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void thread3(void)",
+    "location": {
+      "column": "6",
+      "line": "12",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "thread3",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@thread4",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void thread4(void)",
+    "location": {
+      "column": "6",
+      "line": "13",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "thread4",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@thread5",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void thread5(void)",
+    "location": {
+      "column": "6",
+      "line": "14",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "thread5",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@count_flag",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "count_flag",
+    "location": {
+      "column": "12",
+      "line": "17",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "count_flag",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@count",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "count",
+    "location": {
+      "column": "5",
+      "line": "18",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "count",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@513@macro@TAM_PILHA_1",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TAM_PILHA_1",
+    "location": {
+      "column": "9",
+      "line": "23",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "TAM_PILHA_1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@559@macro@TAM_PILHA_2",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TAM_PILHA_2",
+    "location": {
+      "column": "9",
+      "line": "24",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "TAM_PILHA_2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@605@macro@TAM_PILHA_3",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TAM_PILHA_3",
+    "location": {
+      "column": "9",
+      "line": "25",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "TAM_PILHA_3",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@653@macro@TAM_PILHA_4",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TAM_PILHA_4",
+    "location": {
+      "column": "9",
+      "line": "27",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "TAM_PILHA_4",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@699@macro@TAM_PILHA_5",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TAM_PILHA_5",
+    "location": {
+      "column": "9",
+      "line": "28",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "TAM_PILHA_5",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@745@macro@TAM_PILHA_6",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TAM_PILHA_6",
+    "location": {
+      "column": "9",
+      "line": "29",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "TAM_PILHA_6",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@793@macro@TAM_PILHA_OCIOSA",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TAM_PILHA_OCIOSA",
+    "location": {
+      "column": "9",
+      "line": "31",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "TAM_PILHA_OCIOSA",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@845@macro@N_ELEMENTOS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "N_ELEMENTOS",
+    "location": {
+      "column": "9",
+      "line": "33",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "N_ELEMENTOS",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@PILHA_TAREFA_1",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "PILHA_TAREFA_1",
+    "location": {
+      "column": "10",
+      "line": "38",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "PILHA_TAREFA_1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@PILHA_TAREFA_2",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "PILHA_TAREFA_2",
+    "location": {
+      "column": "10",
+      "line": "39",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "PILHA_TAREFA_2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@PILHA_TAREFA_3",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "PILHA_TAREFA_3",
+    "location": {
+      "column": "10",
+      "line": "40",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "PILHA_TAREFA_3",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@PILHA_TAREFA_4",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "PILHA_TAREFA_4",
+    "location": {
+      "column": "10",
+      "line": "42",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "PILHA_TAREFA_4",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@PILHA_TAREFA_5",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "PILHA_TAREFA_5",
+    "location": {
+      "column": "10",
+      "line": "43",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "PILHA_TAREFA_5",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@PILHA_TAREFA_6",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "PILHA_TAREFA_6",
+    "location": {
+      "column": "10",
+      "line": "44",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "PILHA_TAREFA_6",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@PILHA_TAREFA_OCIOSA",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "PILHA_TAREFA_OCIOSA",
+    "location": {
+      "column": "10",
+      "line": "46",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "PILHA_TAREFA_OCIOSA",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@cheio",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "cheio",
+    "location": {
+      "column": "12",
+      "line": "51",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "cheio",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@vazio",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "vazio",
+    "location": {
+      "column": "12",
+      "line": "52",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "vazio",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@buffer",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "buffer",
+    "location": {
+      "column": "5",
+      "line": "55",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "buffer",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "60",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@thread5",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void thread5(void)",
+    "location": {
+      "column": "6",
+      "line": "99",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "thread5",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@2483@F@thread5@a",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "a",
+    "location": {
+      "column": "7",
+      "line": "100",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "a",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@thread4",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void thread4(void)",
+    "location": {
+      "column": "6",
+      "line": "112",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "thread4",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@2721@F@thread4@debbug",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "debbug",
+    "location": {
+      "column": "19",
+      "line": "113",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "debbug",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@thread3",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void thread3(void)",
+    "location": {
+      "column": "6",
+      "line": "124",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "thread3",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@2953@F@thread3@debbug",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "debbug",
+    "location": {
+      "column": "19",
+      "line": "125",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "debbug",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@thread2",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void thread2(void)",
+    "location": {
+      "column": "6",
+      "line": "137",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "thread2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@3209@F@thread2@debbug",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "debbug",
+    "location": {
+      "column": "19",
+      "line": "138",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "debbug",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@thread1",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void thread1(void)",
+    "location": {
+      "column": "6",
+      "line": "150",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "thread1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@3465@F@thread1@debbug",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "debbug",
+    "location": {
+      "column": "19",
+      "line": "151",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "debbug",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@thread0",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void thread0(void)",
+    "location": {
+      "column": "6",
+      "line": "163",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "thread0",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@3721@F@thread0@debbug",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "debbug",
+    "location": {
+      "column": "19",
+      "line": "164",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "debbug",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:ysizet.h@111@macro@_YSIZET_H",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_YSIZET_H",
+    "location": {
+      "column": "9",
+      "line": "5",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\ysizet.h"
+    },
+    "name": "_YSIZET_H",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:ysizet.h@277@macro@_SIZE_T",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_SIZE_T",
+    "location": {
+      "column": "11",
+      "line": "16",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\ysizet.h"
+    },
+    "name": "_SIZE_T",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:ysizet.h@296@macro@_STD_USING_SIZE_T",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_STD_USING_SIZE_T",
+    "location": {
+      "column": "11",
+      "line": "17",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\ysizet.h"
+    },
+    "name": "_STD_USING_SIZE_T",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:ysizet.h@T@size_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "_Sizet",
+    "location": {
+      "column": "18",
+      "line": "18",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\ysizet.h"
+    },
+    "name": "size_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:ysizet.h@359@macro@__DATA_PTR_MEM_HELPER1__",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__DATA_PTR_MEM_HELPER1__",
+    "location": {
+      "column": "9",
+      "line": "21",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\ysizet.h"
+    },
+    "name": "__DATA_PTR_MEM_HELPER1__",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:ysizet.h@T@__data_size_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "unsigned int",
+    "location": {
+      "column": "1",
+      "line": "23",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\ysizet.h"
+    },
+    "name": "__data_size_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@tarefa_atual",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "tarefa_atual",
+    "location": {
+      "column": "13",
+      "line": "9",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+    },
+    "name": "tarefa_atual",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@proxima_tarefa",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "proxima_tarefa",
+    "location": {
+      "column": "27",
+      "line": "9",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+    },
+    "name": "proxima_tarefa",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@TCB",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "TCB",
+    "location": {
+      "column": "13",
+      "line": "10",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+    },
+    "name": "TCB",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@ponteiro_de_pilha",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "ponteiro_de_pilha",
+    "location": {
+      "column": "15",
+      "line": "11",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+    },
+    "name": "ponteiro_de_pilha",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@Prioridades",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "Prioridades",
+    "location": {
+      "column": "20",
+      "line": "12",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+    },
+    "name": "Prioridades",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@SP",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "SP",
+    "location": {
+      "column": "13",
+      "line": "13",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+    },
+    "name": "SP",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:multitarefas.c@contador_marcas",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "contador_marcas",
+    "location": {
+      "column": "15",
+      "line": "16",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+    },
+    "name": "contador_marcas",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:multitarefas.c@numero_tarefas",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "numero_tarefas",
+    "location": {
+      "column": "16",
+      "line": "18",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+    },
+    "name": "numero_tarefas",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@escalonador",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "uint8_t escalonador(void)",
+    "location": {
+      "column": "9",
+      "line": "25",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+    },
+    "name": "escalonador",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:multitarefas.c@765@F@escalonador@prioridade",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "prioridade",
+    "location": {
+      "column": "10",
+      "line": "28",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+    },
+    "name": "prioridade",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:multitarefas.c@787@F@escalonador@tarefa_selecionada",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "tarefa_selecionada",
+    "location": {
+      "column": "10",
+      "line": "29",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+    },
+    "name": "tarefa_selecionada",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@CriaTarefa",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void CriaTarefa(tarefa_t, const char *, stackptr_t, uint16_t, prioridade_t)",
+    "location": {
+      "column": "6",
+      "line": "59",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+    },
+    "name": "CriaTarefa",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TarefaSuspende",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TarefaSuspende(uint8_t)",
+    "location": {
+      "column": "6",
+      "line": "88",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+    },
+    "name": "TarefaSuspende",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TarefaContinua",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TarefaContinua(uint8_t)",
+    "location": {
+      "column": "6",
+      "line": "96",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+    },
+    "name": "TarefaContinua",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TarefaEspera",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TarefaEspera(tick_t)",
+    "location": {
+      "column": "6",
+      "line": "104",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+    },
+    "name": "TarefaEspera",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tarefa_ociosa",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void tarefa_ociosa(void)",
+    "location": {
+      "column": "6",
+      "line": "117",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+    },
+    "name": "tarefa_ociosa",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@IniciaMultitarefas",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void IniciaMultitarefas(void)",
+    "location": {
+      "column": "6",
+      "line": "131",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+    },
+    "name": "IniciaMultitarefas",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TrocaContextoDasTarefas",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TrocaContextoDasTarefas(void)",
+    "location": {
+      "column": "6",
+      "line": "139",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+    },
+    "name": "TrocaContextoDasTarefas",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@ExecutaMarcaDeTempo",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void ExecutaMarcaDeTempo(void)",
+    "location": {
+      "column": "6",
+      "line": "157",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+    },
+    "name": "ExecutaMarcaDeTempo",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:multitarefas.c@4336@F@ExecutaMarcaDeTempo@tarefa",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "tarefa",
+    "location": {
+      "column": "10",
+      "line": "160",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+    },
+    "name": "tarefa",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SemaforoAguarda",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SemaforoAguarda(semaforo_t *)",
+    "location": {
+      "column": "6",
+      "line": "183",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+    },
+    "name": "SemaforoAguarda",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SemaforoLibera",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SemaforoLibera(semaforo_t *)",
+    "location": {
+      "column": "6",
+      "line": "202",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+    },
+    "name": "SemaforoLibera",
+    "origin": "project_file",
+    "scope": null
+  }
+]
